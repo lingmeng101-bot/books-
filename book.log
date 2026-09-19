@@ -1,0 +1,24 @@
+2026-09-19 21:41:38 xun main.py[line:12] INFO 初始化完成,开始运行
+2026-09-19 21:41:38 xun run.py[line:18] INFO [list 1/1] https://books.toscrape.com/
+2026-09-19 21:41:44 xun run.py[line:65] INFO   [+] normal 【A Light in the Attic】£51.77
+2026-09-19 21:41:44 xun run.py[line:65] INFO   [+] normal 【Tipping the Velvet】£53.74
+2026-09-19 21:41:44 xun run.py[line:65] INFO   [+] normal 【Soumission】£50.10
+2026-09-19 21:41:44 xun run.py[line:65] INFO   [+] normal 【Sharp Objects】£47.82
+2026-09-19 21:41:44 xun run.py[line:65] INFO   [+] normal 【Sapiens: A Brief History of Humankind】£54.23
+2026-09-19 21:41:44 xun run.py[line:65] INFO   [+] normal 【The Requiem Red】£22.65
+2026-09-19 21:41:44 xun run.py[line:65] INFO   [+] normal 【The Dirty Little Secrets of Getting Your Dream Job】£33.34
+2026-09-19 21:41:44 xun run.py[line:65] INFO   [+] normal 【The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull】£17.93
+2026-09-19 21:41:44 xun run.py[line:65] INFO   [+] normal 【The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics】£22.60
+2026-09-19 21:41:44 xun run.py[line:65] INFO   [+] normal 【The Black Maria】£52.15
+2026-09-19 21:41:44 xun run.py[line:65] INFO   [+] normal 【Starving Hearts (Triangular Trade Trilogy, #1)】£13.99
+2026-09-19 21:41:44 xun run.py[line:65] INFO   [+] normal 【Shakespeare's Sonnets】£20.66
+2026-09-19 21:41:44 xun run.py[line:65] INFO   [+] normal 【Set Me Free】£17.46
+2026-09-19 21:41:44 xun run.py[line:65] INFO   [+] normal 【Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)】£52.29
+2026-09-19 21:41:44 xun run.py[line:65] INFO   [+] normal 【Rip it Up and Start Again】£35.02
+2026-09-19 21:41:44 xun run.py[line:65] INFO   [+] normal 【Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991】£57.25
+2026-09-19 21:41:44 xun run.py[line:65] INFO   [+] normal 【Olio】£23.88
+2026-09-19 21:41:44 xun run.py[line:65] INFO   [+] normal 【Mesaerion: The Best Science Fiction Stories 1800-1849】£37.59
+2026-09-19 21:41:44 xun run.py[line:65] INFO   [+] normal 【Libertarianism for Beginners】£51.33
+2026-09-19 21:41:44 xun run.py[line:65] INFO   [+] normal 【It's Only the Himalayas】£45.17
+2026-09-19 21:41:44 xun main.py[line:18] INFO 爬虫完成: 新增20 条 , 收容 0 条
+2026-09-19 21:41:45 xun main.py[line:27] INFO 运行成功
