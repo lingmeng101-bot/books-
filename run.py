@@ -1,10 +1,12 @@
-import config
-import sqlite3
-import requests
 import logging
-from fetcher import  fetch
-from parser import parse_book, next_page_url
-from storage import  link_exists, save_xia_xun, commit_db
+import sqlite3
+
+import requests
+
+import config
+from fetcher import fetch
+from parser import next_page_url, parse_book
+from storage import commit_db, link_exists, save_xia_xun
 
 log=logging.getLogger(config.LOG_NAME)
 

@@ -1,6 +1,8 @@
-from bs4 import BeautifulSoup
-from urllib.parse import urljoin
 import logging
+from urllib.parse import urljoin
+
+from bs4 import BeautifulSoup
+
 import config
 
 log=logging.getLogger(config.LOG_NAME)

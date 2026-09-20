@@ -1,10 +1,14 @@
-import time
-import config
 import random
+import time
+
 import requests
-from urllib3.util.retry import Retry
 from requests.adapters import HTTPAdapter
-def make_session(headers: dict=None) -> requests.Session:
+from urllib3.util.retry import Retry
+
+import config
+
+
+def make_session(headers: dict|None =None) -> requests.Session:
     session = requests.Session()
     define_headers={
         "User-Agent": random.choice(config.USER_AGENTS),

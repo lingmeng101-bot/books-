@@ -1,9 +1,10 @@
 import logging
+
 import config
 from fetcher import make_session
-from storage import init_db, get_unpushed, mark_pushed
-from run import crawl_and_save
 from log import setup_logger
+from run import crawl_and_save
+from storage import commit_db, get_unpushed, init_db, mark_pushed
 
 log=logging.getLogger(config.LOG_NAME)
 
@@ -24,6 +25,7 @@ def main():
 
         for id_ in rows:
             mark_pushed(conn,id_[0])
+        commit_db(conn)
         log.info("运行成功")
 
     except Exception:

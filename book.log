@@ -22,3 +22,1102 @@
 2026-09-19 21:41:44 xun run.py[line:65] INFO   [+] normal 【It's Only the Himalayas】£45.17
 2026-09-19 21:41:44 xun main.py[line:18] INFO 爬虫完成: 新增20 条 , 收容 0 条
 2026-09-19 21:41:45 xun main.py[line:27] INFO 运行成功
+2026-09-19 22:22:51 xun main.py[line:12] INFO 初始化完成,开始运行
+2026-09-19 22:22:51 xun run.py[line:18] INFO [list 1/1] https://books.toscrape.com/
+2026-09-19 22:22:58 xun main.py[line:18] INFO 爬虫完成: 新增0 条 , 收容 0 条
+2026-09-19 22:22:58 xun main.py[line:22] INFO 书本信息没有更新
+2026-09-19 22:23:20 xun main.py[line:12] INFO 初始化完成,开始运行
+2026-09-19 22:23:20 xun run.py[line:18] INFO [list 1/50] https://books.toscrape.com/
+2026-09-19 22:23:25 xun run.py[line:18] INFO [list 2/50] https://books.toscrape.com/catalogue/page-2.html
+2026-09-19 22:23:27 xun run.py[line:65] INFO   [+] normal 【In Her Wake】£12.84
+2026-09-19 22:23:27 xun run.py[line:65] INFO   [+] normal 【How Music Works】£37.32
+2026-09-19 22:23:27 xun run.py[line:65] INFO   [+] normal 【Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More】£30.52
+2026-09-19 22:23:27 xun run.py[line:65] INFO   [+] normal 【Chase Me (Paris Nights #2)】£25.27
+2026-09-19 22:23:27 xun run.py[line:65] INFO   [+] normal 【Black Dust】£34.53
+2026-09-19 22:23:27 xun run.py[line:65] INFO   [+] normal 【Birdsong: A Story in Pictures】£54.64
+2026-09-19 22:23:27 xun run.py[line:65] INFO   [+] normal 【America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana】£22.50
+2026-09-19 22:23:27 xun run.py[line:65] INFO   [+] normal 【Aladdin and His Wonderful Lamp】£53.13
+2026-09-19 22:23:27 xun run.py[line:65] INFO   [+] normal 【Worlds Elsewhere: Journeys Around Shakespeare’s Globe】£40.30
+2026-09-19 22:23:27 xun run.py[line:65] INFO   [+] normal 【Wall and Piece】£44.18
+2026-09-19 22:23:27 xun run.py[line:65] INFO   [+] normal 【The Four Agreements: A Practical Guide to Personal Freedom】£17.66
+2026-09-19 22:23:27 xun run.py[line:65] INFO   [+] normal 【The Five Love Languages: How to Express Heartfelt Commitment to Your Mate】£31.05
+2026-09-19 22:23:27 xun run.py[line:65] INFO   [+] normal 【The Elephant Tree】£23.82
+2026-09-19 22:23:27 xun run.py[line:65] INFO   [+] normal 【The Bear and the Piano】£36.89
+2026-09-19 22:23:27 xun run.py[line:65] INFO   [+] normal 【Sophie's World】£15.94
+2026-09-19 22:23:27 xun run.py[line:65] INFO   [+] normal 【Penny Maybe】£33.29
+2026-09-19 22:23:27 xun run.py[line:65] INFO   [+] normal 【Maude (1883-1993):She Grew Up with the country】£18.02
+2026-09-19 22:23:27 xun run.py[line:65] INFO   [+] normal 【In a Dark, Dark Wood】£19.63
+2026-09-19 22:23:27 xun run.py[line:65] INFO   [+] normal 【Behind Closed Doors】£52.22
+2026-09-19 22:23:27 xun run.py[line:65] INFO   [+] normal 【You can't bury them all: Poems】£33.63
+2026-09-19 22:23:27 xun run.py[line:18] INFO [list 3/50] https://books.toscrape.com/catalogue/page-3.html
+2026-09-19 22:23:29 xun run.py[line:65] INFO   [+] normal 【Slow States of Collapse: Poems】£57.31
+2026-09-19 22:23:29 xun run.py[line:65] INFO   [+] normal 【Reasons to Stay Alive】£26.41
+2026-09-19 22:23:29 xun run.py[line:65] INFO   [+] normal 【Private Paris (Private #10)】£47.61
+2026-09-19 22:23:29 xun run.py[line:65] INFO   [+] normal 【#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.】£23.11
+2026-09-19 22:23:29 xun run.py[line:65] INFO   [+] normal 【Without Borders (Wanderlove #1)】£45.07
+2026-09-19 22:23:29 xun run.py[line:65] INFO   [+] normal 【When We Collided】£31.77
+2026-09-19 22:23:29 xun run.py[line:65] INFO   [+] normal 【We Love You, Charlie Freeman】£50.27
+2026-09-19 22:23:29 xun run.py[line:65] INFO   [+] normal 【Untitled Collection: Sabbath Poems 2014】£14.27
+2026-09-19 22:23:29 xun run.py[line:65] INFO   [+] normal 【Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness】£44.18
+2026-09-19 22:23:29 xun run.py[line:65] INFO   [+] normal 【Unicorn Tracks】£18.78
+2026-09-19 22:23:29 xun run.py[line:65] INFO   [+] normal 【Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink】£25.52
+2026-09-19 22:23:29 xun run.py[line:65] INFO   [+] normal 【Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)】£16.28
+2026-09-19 22:23:29 xun run.py[line:65] INFO   [+] normal 【Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity】£31.12
+2026-09-19 22:23:29 xun run.py[line:65] INFO   [+] normal 【This One Summer】£19.49
+2026-09-19 22:23:29 xun run.py[line:65] INFO   [+] normal 【Thirst】£17.27
+2026-09-19 22:23:29 xun run.py[line:65] INFO   [+] normal 【The Torch Is Passed: A Harding Family Story】£19.09
+2026-09-19 22:23:29 xun run.py[line:65] INFO   [+] normal 【The Secret of Dreadwillow Carse】£56.13
+2026-09-19 22:23:29 xun run.py[line:65] INFO   [+] normal 【The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!】£56.41
+2026-09-19 22:23:29 xun run.py[line:65] INFO   [+] normal 【The Past Never Ends】£56.50
+2026-09-19 22:23:29 xun run.py[line:65] INFO   [+] normal 【The Natural History of Us (The Fine Art of Pretending #2)】£45.22
+2026-09-19 22:23:29 xun run.py[line:18] INFO [list 4/50] https://books.toscrape.com/catalogue/page-4.html
+2026-09-19 22:23:34 xun run.py[line:65] INFO   [+] normal 【The Nameless City (The Nameless City #1)】£38.16
+2026-09-19 22:23:34 xun run.py[line:65] INFO   [+] normal 【The Murder That Never Was (Forensic Instincts #5)】£54.11
+2026-09-19 22:23:34 xun run.py[line:65] INFO   [+] normal 【The Most Perfect Thing: Inside (and Outside) a Bird's Egg】£42.96
+2026-09-19 22:23:34 xun run.py[line:65] INFO   [+] normal 【The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy】£23.89
+2026-09-19 22:23:34 xun run.py[line:65] INFO   [+] normal 【The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing】£16.77
+2026-09-19 22:23:34 xun run.py[line:65] INFO   [+] normal 【The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer】£20.59
+2026-09-19 22:23:34 xun run.py[line:65] INFO   [+] normal 【The Gutsy Girl: Escapades for Your Life of Epic Adventure】£37.13
+2026-09-19 22:23:34 xun run.py[line:65] INFO   [+] normal 【The Electric Pencil: Drawings from Inside State Hospital No. 3】£56.06
+2026-09-19 22:23:34 xun run.py[line:65] INFO   [+] normal 【The Death of Humanity: and the Case for Life】£58.11
+2026-09-19 22:23:34 xun run.py[line:65] INFO   [+] normal 【The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life】£49.05
+2026-09-19 22:23:34 xun run.py[line:65] INFO   [+] normal 【The Art Forger】£40.76
+2026-09-19 22:23:34 xun run.py[line:65] INFO   [+] normal 【The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind】£19.73
+2026-09-19 22:23:34 xun run.py[line:65] INFO   [+] normal 【The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution】£32.24
+2026-09-19 22:23:34 xun run.py[line:65] INFO   [+] normal 【Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up】£41.83
+2026-09-19 22:23:34 xun run.py[line:65] INFO   [+] normal 【Soul Reader】£39.58
+2026-09-19 22:23:34 xun run.py[line:65] INFO   [+] normal 【Security】£39.25
+2026-09-19 22:23:34 xun run.py[line:65] INFO   [+] normal 【Saga, Volume 6 (Saga (Collected Editions) #6)】£25.02
+2026-09-19 22:23:34 xun run.py[line:65] INFO   [+] normal 【Saga, Volume 5 (Saga (Collected Editions) #5)】£51.04
+2026-09-19 22:23:34 xun run.py[line:65] INFO   [+] normal 【Reskilling America: Learning to Labor in the Twenty-First Century】£19.83
+2026-09-19 22:23:34 xun run.py[line:65] INFO   [+] normal 【Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)】£50.40
+2026-09-19 22:23:34 xun run.py[line:18] INFO [list 5/50] https://books.toscrape.com/catalogue/page-5.html
+2026-09-19 22:23:37 xun run.py[line:65] INFO   [+] normal 【Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)】£13.61
+2026-09-19 22:23:37 xun run.py[line:65] INFO   [+] normal 【Princess Between Worlds (Wide-Awake Princess #5)】£13.34
+2026-09-19 22:23:37 xun run.py[line:65] INFO   [+] normal 【Pop Gun War, Volume 1: Gift】£18.97
+2026-09-19 22:23:37 xun run.py[line:65] INFO   [+] normal 【Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics】£36.28
+2026-09-19 22:23:37 xun run.py[line:65] INFO   [+] normal 【Patience】£10.16
+2026-09-19 22:23:37 xun run.py[line:65] INFO   [+] normal 【Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)】£15.44
+2026-09-19 22:23:37 xun run.py[line:65] INFO   [+] normal 【orange: The Complete Collection 1 (orange: The Complete Collection #1)】£48.41
+2026-09-19 22:23:37 xun run.py[line:65] INFO   [+] normal 【Online Marketing for Busy Authors: A Step-By-Step Guide】£46.35
+2026-09-19 22:23:37 xun run.py[line:65] INFO   [+] normal 【On a Midnight Clear】£14.07
+2026-09-19 22:23:37 xun run.py[line:65] INFO   [+] normal 【Obsidian (Lux #1)】£14.86
+2026-09-19 22:23:37 xun run.py[line:65] INFO   [+] normal 【My Paris Kitchen: Recipes and Stories】£33.37
+2026-09-19 22:23:37 xun run.py[line:65] INFO   [+] normal 【Masks and Shadows】£56.40
+2026-09-19 22:23:37 xun run.py[line:65] INFO   [+] normal 【Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed】£14.02
+2026-09-19 22:23:37 xun run.py[line:65] INFO   [+] normal 【Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)】£46.91
+2026-09-19 22:23:37 xun run.py[line:65] INFO   [+] normal 【Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)】£45.61
+2026-09-19 22:23:37 xun run.py[line:65] INFO   [+] normal 【Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12)】£19.92
+2026-09-19 22:23:37 xun run.py[line:65] INFO   [+] normal 【Layered: Baking, Building, and Styling Spectacular Cakes】£40.11
+2026-09-19 22:23:37 xun run.py[line:65] INFO   [+] normal 【Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners)】£53.90
+2026-09-19 22:23:37 xun run.py[line:65] INFO   [+] normal 【Join】£35.67
+2026-09-19 22:23:37 xun run.py[line:65] INFO   [+] normal 【In the Country We Love: My Family Divided】£22.00
+2026-09-19 22:23:37 xun run.py[line:18] INFO [list 6/50] https://books.toscrape.com/catalogue/page-6.html
+2026-09-19 22:23:39 xun run.py[line:65] INFO   [+] normal 【Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine】£57.36
+2026-09-19 22:23:39 xun run.py[line:65] INFO   [+] normal 【I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)】£29.17
+2026-09-19 22:23:39 xun run.py[line:65] INFO   [+] normal 【I am a Hero Omnibus Volume 1】£54.63
+2026-09-19 22:23:39 xun run.py[line:65] INFO   [+] normal 【How to Be Miserable: 40 Strategies You Already Use】£46.03
+2026-09-19 22:23:39 xun run.py[line:65] INFO   [+] normal 【Her Backup Boyfriend (The Sorensen Family #1)】£33.97
+2026-09-19 22:23:39 xun run.py[line:65] INFO   [+] normal 【Giant Days, Vol. 2 (Giant Days #5-8)】£22.11
+2026-09-19 22:23:39 xun run.py[line:65] INFO   [+] normal 【Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton】£29.69
+2026-09-19 22:23:39 xun run.py[line:65] INFO   [+] normal 【First and First (Five Boroughs #3)】£15.97
+2026-09-19 22:23:39 xun run.py[line:65] INFO   [+] normal 【Fifty Shades Darker (Fifty Shades #2)】£21.96
+2026-09-19 22:23:39 xun run.py[line:65] INFO   [+] normal 【Everydata: The Misinformation Hidden in the Little Data You Consume Every Day】£54.35
+2026-09-19 22:23:39 xun run.py[line:65] INFO   [+] normal 【Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master】£37.97
+2026-09-19 22:23:39 xun run.py[line:65] INFO   [+] normal 【Danganronpa Volume 1】£51.99
+2026-09-19 22:23:39 xun run.py[line:65] INFO   [+] normal 【Crown of Midnight (Throne of Glass #2)】£43.29
+2026-09-19 22:23:39 xun run.py[line:65] INFO   [+] normal 【Codename Baboushka, Volume 1: The Conclave of Death】£36.72
+2026-09-19 22:23:39 xun run.py[line:65] INFO   [+] normal 【Camp Midnight】£17.08
+2026-09-19 22:23:39 xun run.py[line:65] INFO   [+] normal 【Call the Nurse: True Stories of a Country Nurse on a Scottish Isle】£29.14
+2026-09-19 22:23:39 xun run.py[line:65] INFO   [+] normal 【Burning】£28.81
+2026-09-19 22:23:39 xun run.py[line:65] INFO   [+] normal 【Bossypants】£49.46
+2026-09-19 22:23:39 xun run.py[line:65] INFO   [+] normal 【Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))】£37.92
+2026-09-19 22:23:39 xun run.py[line:65] INFO   [+] normal 【Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)】£28.09
+2026-09-19 22:23:39 xun run.py[line:18] INFO [list 7/50] https://books.toscrape.com/catalogue/page-7.html
+2026-09-19 22:23:44 xun run.py[line:65] INFO   [+] normal 【Algorithms to Live By: The Computer Science of Human Decisions】£30.81
+2026-09-19 22:23:44 xun run.py[line:65] INFO   [+] normal 【A World of Flavor: Your Gluten Free Passport】£42.95
+2026-09-19 22:23:44 xun run.py[line:65] INFO   [+] normal 【A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations】£56.76
+2026-09-19 22:23:44 xun run.py[line:65] INFO   [+] normal 【A Murder in Time】£16.64
+2026-09-19 22:23:44 xun run.py[line:65] INFO   [+] normal 【A Flight of Arrows (The Pathfinders #2)】£55.53
+2026-09-19 22:23:44 xun run.py[line:65] INFO   [+] normal 【A Fierce and Subtle Poison】£28.13
+2026-09-19 22:23:44 xun run.py[line:65] INFO   [+] normal 【A Court of Thorns and Roses (A Court of Thorns and Roses #1)】£52.37
+2026-09-19 22:23:44 xun run.py[line:65] INFO   [+] normal 【(Un)Qualified: How God Uses Broken People to Do Big Things】£54.00
+2026-09-19 22:23:44 xun run.py[line:65] INFO   [+] normal 【You Are What You Love: The Spiritual Power of Habit】£21.87
+2026-09-19 22:23:44 xun run.py[line:65] INFO   [+] normal 【William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)】£43.30
+2026-09-19 22:23:44 xun run.py[line:65] INFO   [+] normal 【Tuesday Nights in 1980】£21.04
+2026-09-19 22:23:44 xun run.py[line:65] INFO   [+] normal 【Tracing Numbers on a Train】£41.60
+2026-09-19 22:23:44 xun run.py[line:65] INFO   [+] normal 【Throne of Glass (Throne of Glass #1)】£35.07
+2026-09-19 22:23:44 xun run.py[line:65] INFO   [+] normal 【Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History】£59.64
+2026-09-19 22:23:44 xun run.py[line:65] INFO   [+] normal 【Thirteen Reasons Why】£52.72
+2026-09-19 22:23:44 xun run.py[line:65] INFO   [+] normal 【The White Cat and the Monk: A Retelling of the Poem “Pangur Bán”】£58.08
+2026-09-19 22:23:44 xun run.py[line:65] INFO   [+] normal 【The Wedding Dress】£24.12
+2026-09-19 22:23:44 xun run.py[line:65] INFO   [+] normal 【The Vacationers】£42.15
+2026-09-19 22:23:44 xun run.py[line:65] INFO   [+] normal 【The Third Wave: An Entrepreneur’s Vision of the Future】£12.61
+2026-09-19 22:23:44 xun run.py[line:65] INFO   [+] normal 【The Stranger】£17.44
+2026-09-19 22:23:44 xun run.py[line:18] INFO [list 8/50] https://books.toscrape.com/catalogue/page-8.html
+2026-09-19 22:23:48 xun run.py[line:65] INFO   [+] normal 【The Shadow Hero (The Shadow Hero)】£33.14
+2026-09-19 22:23:48 xun run.py[line:65] INFO   [+] normal 【The Secret (The Secret #1)】£27.37
+2026-09-19 22:23:48 xun run.py[line:65] INFO   [+] normal 【The Regional Office Is Under Attack!】£51.36
+2026-09-19 22:23:48 xun run.py[line:65] INFO   [+] normal 【The Psychopath Test: A Journey Through the Madness Industry】£36.00
+2026-09-19 22:23:48 xun run.py[line:65] INFO   [+] normal 【The Project】£10.65
+2026-09-19 22:23:48 xun run.py[line:65] INFO   [+] normal 【The Power of Now: A Guide to Spiritual Enlightenment】£43.54
+2026-09-19 22:23:48 xun run.py[line:65] INFO   [+] normal 【The Omnivore's Dilemma: A Natural History of Four Meals】£38.21
+2026-09-19 22:23:48 xun run.py[line:65] INFO   [+] normal 【The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us】£37.34
+2026-09-19 22:23:48 xun run.py[line:65] INFO   [+] normal 【The Murder of Roger Ackroyd (Hercule Poirot #4)】£44.10
+2026-09-19 22:23:48 xun run.py[line:65] INFO   [+] normal 【The Mistake (Off-Campus #2)】£43.29
+2026-09-19 22:23:48 xun run.py[line:65] INFO   [+] normal 【The Matchmaker's Playbook (Wingmen Inc. #1)】£55.85
+2026-09-19 22:23:48 xun run.py[line:65] INFO   [+] normal 【The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking】£37.60
+2026-09-19 22:23:48 xun run.py[line:65] INFO   [+] normal 【The Long Shadow of Small Ghosts: Murder and Memory in an American City】£10.97
+2026-09-19 22:23:48 xun run.py[line:65] INFO   [+] normal 【The Kite Runner】£41.82
+2026-09-19 22:23:48 xun run.py[line:65] INFO   [+] normal 【The House by the Lake】£36.95
+2026-09-19 22:23:48 xun run.py[line:65] INFO   [+] normal 【The Glittering Court (The Glittering Court #1)】£44.28
+2026-09-19 22:23:48 xun run.py[line:65] INFO   [+] normal 【The Girl on the Train】£55.02
+2026-09-19 22:23:48 xun run.py[line:65] INFO   [+] normal 【The Genius of Birds】£17.24
+2026-09-19 22:23:48 xun run.py[line:65] INFO   [+] normal 【The Emerald Mystery】£23.15
+2026-09-19 22:23:48 xun run.py[line:65] INFO   [+] normal 【The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First】£41.25
+2026-09-19 22:23:48 xun run.py[line:18] INFO [list 9/50] https://books.toscrape.com/catalogue/page-9.html
+2026-09-19 22:23:50 xun run.py[line:65] INFO   [+] normal 【The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.】£32.00
+2026-09-19 22:23:50 xun run.py[line:65] INFO   [+] normal 【The Artist's Way: A Spiritual Path to Higher Creativity】£38.49
+2026-09-19 22:23:50 xun run.py[line:65] INFO   [+] normal 【The Art of War】£33.34
+2026-09-19 22:23:50 xun run.py[line:65] INFO   [+] normal 【The Argonauts】£10.93
+2026-09-19 22:23:50 xun run.py[line:65] INFO   [+] normal 【The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job】£27.55
+2026-09-19 22:23:50 xun run.py[line:65] INFO   [+] normal 【Suddenly in Love (Lake Haven #1)】£55.99
+2026-09-19 22:23:50 xun run.py[line:65] INFO   [+] normal 【Something More Than This】£16.24
+2026-09-19 22:23:50 xun run.py[line:65] INFO   [+] normal 【Soft Apocalypse】£26.12
+2026-09-19 22:23:50 xun run.py[line:65] INFO   [+] normal 【So You've Been Publicly Shamed】£12.23
+2026-09-19 22:23:50 xun run.py[line:65] INFO   [+] normal 【Shoe Dog: A Memoir by the Creator of NIKE】£23.99
+2026-09-19 22:23:50 xun run.py[line:65] INFO   [+] normal 【Shobu Samurai, Project Aryoku (#3)】£29.06
+2026-09-19 22:23:50 xun run.py[line:65] INFO   [+] normal 【Secrets and Lace (Fatal Hearts #1)】£20.27
+2026-09-19 22:23:50 xun run.py[line:65] INFO   [+] normal 【Scarlett Epstein Hates It Here】£43.55
+2026-09-19 22:23:50 xun run.py[line:65] INFO   [+] normal 【Romero and Juliet: A Tragic Tale of Love and Zombies】£36.94
+2026-09-19 22:23:50 xun run.py[line:65] INFO   [+] normal 【Redeeming Love】£20.47
+2026-09-19 22:23:50 xun run.py[line:65] INFO   [+] normal 【Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form】£41.06
+2026-09-19 22:23:50 xun run.py[line:65] INFO   [+] normal 【Poems That Make Grown Women Cry】£14.19
+2026-09-19 22:23:50 xun run.py[line:65] INFO   [+] normal 【Nightingale, Sing】£38.28
+2026-09-19 22:23:50 xun run.py[line:65] INFO   [+] normal 【Night Sky with Exit Wounds】£41.05
+2026-09-19 22:23:50 xun run.py[line:65] INFO   [+] normal 【Mrs. Houdini】£30.25
+2026-09-19 22:23:50 xun run.py[line:18] INFO [list 10/50] https://books.toscrape.com/catalogue/page-10.html
+2026-09-19 22:23:54 xun run.py[line:65] INFO   [+] normal 【Modern Romance】£28.26
+2026-09-19 22:23:54 xun run.py[line:65] INFO   [+] normal 【Miss Peregrine’s Home for Peculiar Children (Miss Peregrine’s Peculiar Children #1)】£10.76
+2026-09-19 22:23:54 xun run.py[line:65] INFO   [+] normal 【Louisa: The Extraordinary Life of Mrs. Adams】£16.85
+2026-09-19 22:23:54 xun run.py[line:65] INFO   [+] normal 【Little Red】£13.47
+2026-09-19 22:23:54 xun run.py[line:65] INFO   [+] normal 【Library of Souls (Miss Peregrine’s Peculiar Children #3)】£48.56
+2026-09-19 22:23:54 xun run.py[line:65] INFO   [+] normal 【Large Print Heart of the Pride】£19.15
+2026-09-19 22:23:54 xun run.py[line:65] INFO   [+] normal 【I Had a Nice Time And Other Lies...: How to find love & sh*t like that】£57.36
+2026-09-19 22:23:54 xun run.py[line:65] INFO   [+] normal 【Hollow City (Miss Peregrine’s Peculiar Children #2)】£42.98
+2026-09-19 22:23:54 xun run.py[line:65] INFO   [+] normal 【Grumbles】£22.16
+2026-09-19 22:23:54 xun run.py[line:65] INFO   [+] normal 【Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond】£49.43
+2026-09-19 22:23:54 xun run.py[line:65] INFO   [+] normal 【Frostbite (Vampire Academy #2)】£29.99
+2026-09-19 22:23:54 xun run.py[line:65] INFO   [+] normal 【Follow You Home】£21.36
+2026-09-19 22:23:54 xun run.py[line:65] INFO   [+] normal 【First Steps for New Christians (Print Edition)】£29.00
+2026-09-19 22:23:54 xun run.py[line:65] INFO   [+] normal 【Finders Keepers (Bill Hodges Trilogy #2)】£53.53
+2026-09-19 22:23:54 xun run.py[line:65] INFO   [+] normal 【Fables, Vol. 1: Legends in Exile (Fables #1)】£41.62
+2026-09-19 22:23:54 xun run.py[line:65] INFO   [+] normal 【Eureka Trivia 6.0】£54.59
+2026-09-19 22:23:54 xun run.py[line:65] INFO   [+] normal 【Drive: The Surprising Truth About What Motivates Us】£34.95
+2026-09-19 22:23:54 xun run.py[line:65] INFO   [+] normal 【Done Rubbed Out (Reightman & Bailey #1)】£37.72
+2026-09-19 22:23:54 xun run.py[line:65] INFO   [+] normal 【Doing It Over (Most Likely To #1)】£35.61
+2026-09-19 22:23:54 xun run.py[line:65] INFO   [+] normal 【Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals】£42.16
+2026-09-19 22:23:54 xun run.py[line:18] INFO [list 11/50] https://books.toscrape.com/catalogue/page-11.html
+2026-09-19 22:23:57 xun run.py[line:65] INFO   [+] normal 【Dark Notes】£19.19
+2026-09-19 22:23:57 xun run.py[line:65] INFO   [+] normal 【Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead】£19.43
+2026-09-19 22:23:57 xun run.py[line:65] INFO   [+] normal 【Close to You】£49.46
+2026-09-19 22:23:57 xun run.py[line:65] INFO   [+] normal 【Chasing Heaven: What Dying Taught Me About Living】£37.80
+2026-09-19 22:23:57 xun run.py[line:65] INFO   [+] normal 【Big Magic: Creative Living Beyond Fear】£30.80
+2026-09-19 22:23:57 xun run.py[line:65] INFO   [+] normal 【Becoming Wise: An Inquiry into the Mystery and Art of Living】£27.43
+2026-09-19 22:23:57 xun run.py[line:65] INFO   [+] normal 【Beauty Restored (Riley Family Legacy Novellas #3)】£11.11
+2026-09-19 22:23:57 xun run.py[line:65] INFO   [+] normal 【Batman: The Long Halloween (Batman)】£36.50
+2026-09-19 22:23:57 xun run.py[line:65] INFO   [+] normal 【Batman: The Dark Knight Returns (Batman)】£15.38
+2026-09-19 22:23:57 xun run.py[line:65] INFO   [+] normal 【Ayumi's Violin】£15.48
+2026-09-19 22:23:57 xun run.py[line:65] INFO   [+] normal 【Anonymous】£46.82
+2026-09-19 22:23:57 xun run.py[line:65] INFO   [+] normal 【Amy Meets the Saints and Sages】£18.46
+2026-09-19 22:23:57 xun run.py[line:65] INFO   [+] normal 【Amid the Chaos】£36.58
+2026-09-19 22:23:57 xun run.py[line:65] INFO   [+] normal 【Amatus】£50.54
+2026-09-19 22:23:57 xun run.py[line:65] INFO   [+] normal 【Agnostic: A Spirited Manifesto】£12.51
+2026-09-19 22:23:57 xun run.py[line:65] INFO   [+] normal 【Zealot: The Life and Times of Jesus of Nazareth】£24.70
+2026-09-19 22:23:57 xun run.py[line:65] INFO   [+] normal 【You (You #1)】£43.61
+2026-09-19 22:23:57 xun run.py[line:65] INFO   [+] normal 【Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)】£37.34
+2026-09-19 22:23:57 xun run.py[line:65] INFO   [+] normal 【Wild Swans】£14.36
+2026-09-19 22:23:57 xun run.py[line:65] INFO   [+] normal 【Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond】£52.65
+2026-09-19 22:23:57 xun run.py[line:18] INFO [list 12/50] https://books.toscrape.com/catalogue/page-12.html
+2026-09-19 22:24:00 xun run.py[line:65] INFO   [+] normal 【Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity】£38.20
+2026-09-19 22:24:00 xun run.py[line:65] INFO   [+] normal 【What's It Like in Space?: Stories from Astronauts Who've Been There】£19.60
+2026-09-19 22:24:00 xun run.py[line:65] INFO   [+] normal 【We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)】£53.90
+2026-09-19 22:24:00 xun run.py[line:65] INFO   [+] normal 【Walt Disney's Alice in Wonderland】£12.96
+2026-09-19 22:24:00 xun run.py[line:65] INFO   [+] normal 【V for Vendetta (V for Vendetta Complete)】£37.10
+2026-09-19 22:24:00 xun run.py[line:65] INFO   [+] normal 【Until Friday Night (The Field Party #1)】£46.31
+2026-09-19 22:24:00 xun run.py[line:65] INFO   [+] normal 【Unbroken: A World War II Story of Survival, Resilience, and Redemption】£45.95
+2026-09-19 22:24:00 xun run.py[line:65] INFO   [+] normal 【Twenty Yawns】£22.08
+2026-09-19 22:24:00 xun run.py[line:65] INFO   [+] normal 【Through the Woods】£25.38
+2026-09-19 22:24:00 xun run.py[line:65] INFO   [+] normal 【This Is Where It Ends】£27.12
+2026-09-19 22:24:00 xun run.py[line:65] INFO   [+] normal 【The Year of Magical Thinking】£43.04
+2026-09-19 22:24:00 xun run.py[line:65] INFO   [+] normal 【The Wright Brothers】£56.80
+2026-09-19 22:24:00 xun run.py[line:65] INFO   [+] normal 【The White Queen (The Cousins' War #1)】£25.91
+2026-09-19 22:24:00 xun run.py[line:65] INFO   [+] normal 【The Wedding Pact (The O'Malleys #2)】£32.61
+2026-09-19 22:24:00 xun run.py[line:65] INFO   [+] normal 【The Time Keeper】£27.88
+2026-09-19 22:24:00 xun run.py[line:65] INFO   [+] normal 【The Testament of Mary】£52.67
+2026-09-19 22:24:00 xun run.py[line:65] INFO   [+] normal 【The Star-Touched Queen】£46.02
+2026-09-19 22:24:00 xun run.py[line:65] INFO   [+] normal 【The Songs of the Gods】£44.48
+2026-09-19 22:24:00 xun run.py[line:65] INFO   [+] normal 【The Song of Achilles】£37.40
+2026-09-19 22:24:00 xun run.py[line:65] INFO   [+] normal 【The Rosie Project (Don Tillman #1)】£54.04
+2026-09-19 22:24:00 xun run.py[line:18] INFO [list 13/50] https://books.toscrape.com/catalogue/page-13.html
+2026-09-19 22:24:05 xun run.py[line:65] INFO   [+] normal 【The Power of Habit: Why We Do What We Do in Life and Business】£16.88
+2026-09-19 22:24:05 xun run.py[line:65] INFO   [+] normal 【The Marriage of Opposites】£28.08
+2026-09-19 22:24:05 xun run.py[line:65] INFO   [+] normal 【The Lucifer Effect: Understanding How Good People Turn Evil】£10.40
+2026-09-19 22:24:05 xun run.py[line:65] INFO   [+] normal 【The Long Haul (Diary of a Wimpy Kid #9)】£44.07
+2026-09-19 22:24:05 xun run.py[line:65] INFO   [+] normal 【The Loney】£23.40
+2026-09-19 22:24:05 xun run.py[line:65] INFO   [+] normal 【The Literature Book (Big Ideas Simply Explained)】£17.43
+2026-09-19 22:24:05 xun run.py[line:65] INFO   [+] normal 【The Last Mile (Amos Decker #2)】£54.21
+2026-09-19 22:24:05 xun run.py[line:65] INFO   [+] normal 【The Immortal Life of Henrietta Lacks】£40.67
+2026-09-19 22:24:05 xun run.py[line:65] INFO   [+] normal 【The Hidden Oracle (The Trials of Apollo #1)】£52.26
+2026-09-19 22:24:05 xun run.py[line:65] INFO   [+] normal 【The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth】£28.77
+2026-09-19 22:24:05 xun run.py[line:65] INFO   [+] normal 【The Guilty (Will Robie #4)】£13.82
+2026-09-19 22:24:05 xun run.py[line:65] INFO   [+] normal 【The First Hostage (J.B. Collins #2)】£25.85
+2026-09-19 22:24:05 xun run.py[line:65] INFO   [+] normal 【The Dovekeepers】£48.78
+2026-09-19 22:24:05 xun run.py[line:65] INFO   [+] normal 【The Darkest Lie】£35.35
+2026-09-19 22:24:05 xun run.py[line:65] INFO   [+] normal 【The Bane Chronicles (The Bane Chronicles #1-11)】£44.73
+2026-09-19 22:24:05 xun run.py[line:65] INFO   [+] normal 【The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World’s Most Precious Manuscripts】£15.77
+2026-09-19 22:24:05 xun run.py[line:65] INFO   [+] normal 【The 14th Colony (Cotton Malone #11)】£39.24
+2026-09-19 22:24:05 xun run.py[line:65] INFO   [+] normal 【That Darkness (Gardiner and Renner #1)】£13.92
+2026-09-19 22:24:05 xun run.py[line:65] INFO   [+] normal 【Tastes Like Fear (DI Marnie Rome #3)】£10.69
+2026-09-19 22:24:05 xun run.py[line:65] INFO   [+] normal 【Take Me with You】£45.21
+2026-09-19 22:24:05 xun run.py[line:18] INFO [list 14/50] https://books.toscrape.com/catalogue/page-14.html
+2026-09-19 22:24:10 xun run.py[line:65] INFO   [+] normal 【Swell: A Year of Waves】£45.58
+2026-09-19 22:24:10 xun run.py[line:65] INFO   [+] normal 【Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1)】£11.89
+2026-09-19 22:24:10 xun run.py[line:65] INFO   [+] normal 【Still Life with Bread Crumbs】£26.41
+2026-09-19 22:24:10 xun run.py[line:65] INFO   [+] normal 【Steve Jobs】£39.50
+2026-09-19 22:24:10 xun run.py[line:65] INFO   [+] normal 【Sorting the Beef from the Bull: The Science of Food Fraud Forensics】£44.74
+2026-09-19 22:24:10 xun run.py[line:65] INFO   [+] normal 【Someone Like You (The Harrisons #2)】£52.79
+2026-09-19 22:24:10 xun run.py[line:65] INFO   [+] normal 【So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)】£35.43
+2026-09-19 22:24:10 xun run.py[line:65] INFO   [+] normal 【Shtum】£55.84
+2026-09-19 22:24:10 xun run.py[line:65] INFO   [+] normal 【See America: A Celebration of Our National Parks & Treasured Sites】£48.87
+2026-09-19 22:24:10 xun run.py[line:65] INFO   [+] normal 【salt.】£46.78
+2026-09-19 22:24:10 xun run.py[line:65] INFO   [+] normal 【Robin War】£47.82
+2026-09-19 22:24:10 xun run.py[line:65] INFO   [+] normal 【Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1)】£25.48
+2026-09-19 22:24:10 xun run.py[line:65] INFO   [+] normal 【Rain Fish】£23.57
+2026-09-19 22:24:10 xun run.py[line:65] INFO   [+] normal 【Quarter Life Poetry: Poems for the Young, Broke and Hangry】£50.89
+2026-09-19 22:24:10 xun run.py[line:65] INFO   [+] normal 【Pet Sematary】£10.56
+2026-09-19 22:24:10 xun run.py[line:65] INFO   [+] normal 【Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress】£52.15
+2026-09-19 22:24:10 xun run.py[line:65] INFO   [+] normal 【Once Was a Time】£18.28
+2026-09-19 22:24:10 xun run.py[line:65] INFO   [+] normal 【Old School (Diary of a Wimpy Kid #10)】£11.83
+2026-09-19 22:24:10 xun run.py[line:65] INFO   [+] normal 【No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon】£21.95
+2026-09-19 22:24:10 xun run.py[line:65] INFO   [+] normal 【Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)】£38.39
+2026-09-19 22:24:10 xun run.py[line:18] INFO [list 15/50] https://books.toscrape.com/catalogue/page-15.html
+2026-09-19 22:24:14 xun run.py[line:65] INFO   [+] normal 【My Name Is Lucy Barton】£41.56
+2026-09-19 22:24:14 xun run.py[line:65] INFO   [+] normal 【My Mrs. Brown】£24.48
+2026-09-19 22:24:14 xun run.py[line:65] INFO   [+] normal 【My Kind of Crazy】£40.36
+2026-09-19 22:24:14 xun run.py[line:65] INFO   [+] normal 【Mr. Mercedes (Bill Hodges Trilogy #1)】£28.90
+2026-09-19 22:24:14 xun run.py[line:65] INFO   [+] normal 【More Than Music (Chasing the Dream #1)】£37.61
+2026-09-19 22:24:14 xun run.py[line:65] INFO   [+] normal 【Made to Stick: Why Some Ideas Survive and Others Die】£38.85
+2026-09-19 22:24:14 xun run.py[line:65] INFO   [+] normal 【Luis Paints the World】£53.95
+2026-09-19 22:24:14 xun run.py[line:65] INFO   [+] normal 【Luckiest Girl Alive】£49.83
+2026-09-19 22:24:14 xun run.py[line:65] INFO   [+] normal 【Lowriders to the Center of the Earth (Lowriders in Space #2)】£51.51
+2026-09-19 22:24:14 xun run.py[line:65] INFO   [+] normal 【Love Is a Mix Tape (Music #1)】£18.03
+2026-09-19 22:24:14 xun run.py[line:65] INFO   [+] normal 【Looking for Lovely: Collecting the Moments that Matter】£29.14
+2026-09-19 22:24:14 xun run.py[line:65] INFO   [+] normal 【Living Leadership by Insight: A Good Leader Achieves, a Great Leader Builds Monuments】£46.91
+2026-09-19 22:24:14 xun run.py[line:65] INFO   [+] normal 【Let It Out: A Journey Through Journaling】£26.79
+2026-09-19 22:24:14 xun run.py[line:65] INFO   [+] normal 【Lady Midnight (The Dark Artifices #1)】£16.28
+2026-09-19 22:24:14 xun run.py[line:65] INFO   [+] normal 【It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes】£19.55
+2026-09-19 22:24:14 xun run.py[line:65] INFO   [+] normal 【Island of Dragons (Unwanteds #7)】£29.65
+2026-09-19 22:24:14 xun run.py[line:65] INFO   [+] normal 【I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction】£25.98
+2026-09-19 22:24:14 xun run.py[line:65] INFO   [+] normal 【I Am Pilgrim (Pilgrim #1)】£10.60
+2026-09-19 22:24:14 xun run.py[line:65] INFO   [+] normal 【Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened】£14.75
+2026-09-19 22:24:14 xun run.py[line:65] INFO   [+] normal 【Hush, Hush (Hush, Hush #1)】£47.02
+2026-09-19 22:24:14 xun run.py[line:18] INFO [list 16/50] https://books.toscrape.com/catalogue/page-16.html
+2026-09-19 22:24:18 xun run.py[line:65] INFO   [+] normal 【Hold Your Breath (Search and Rescue #1)】£28.82
+2026-09-19 22:24:18 xun run.py[line:65] INFO   [+] normal 【Hamilton: The Revolution】£58.79
+2026-09-19 22:24:18 xun run.py[line:65] INFO   [+] normal 【Greek Mythic History】£10.23
+2026-09-19 22:24:18 xun run.py[line:65] INFO   [+] normal 【God: The Most Unpleasant Character in All Fiction】£30.03
+2026-09-19 22:24:18 xun run.py[line:65] INFO   [+] normal 【Glory over Everything: Beyond The Kitchen House】£45.84
+2026-09-19 22:24:18 xun run.py[line:65] INFO   [+] normal 【Feathers: Displays of Brilliant Plumage】£49.05
+2026-09-19 22:24:18 xun run.py[line:65] INFO   [+] normal 【Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years】£15.06
+2026-09-19 22:24:18 xun run.py[line:65] INFO   [+] normal 【Every Last Word】£46.47
+2026-09-19 22:24:18 xun run.py[line:65] INFO   [+] normal 【Eligible (The Austen Project #4)】£27.09
+2026-09-19 22:24:18 xun run.py[line:65] INFO   [+] normal 【El Deafo】£57.62
+2026-09-19 22:24:18 xun run.py[line:65] INFO   [+] normal 【Eight Hundred Grapes】£14.39
+2026-09-19 22:24:18 xun run.py[line:65] INFO   [+] normal 【Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life】£51.75
+2026-09-19 22:24:18 xun run.py[line:65] INFO   [+] normal 【Eat Fat, Get Thin】£54.07
+2026-09-19 22:24:18 xun run.py[line:65] INFO   [+] normal 【Don't Get Caught】£55.35
+2026-09-19 22:24:18 xun run.py[line:65] INFO   [+] normal 【Doctor Sleep (The Shining #2)】£40.12
+2026-09-19 22:24:18 xun run.py[line:65] INFO   [+] normal 【Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3)】£37.51
+2026-09-19 22:24:18 xun run.py[line:65] INFO   [+] normal 【Dear Mr. Knightley】£11.21
+2026-09-19 22:24:18 xun run.py[line:65] INFO   [+] normal 【Daily Fantasy Sports】£36.58
+2026-09-19 22:24:18 xun run.py[line:65] INFO   [+] normal 【Crazy Love: Overwhelmed by a Relentless God】£47.72
+2026-09-19 22:24:18 xun run.py[line:65] INFO   [+] normal 【Cometh the Hour (The Clifton Chronicles #6)】£25.01
+2026-09-19 22:24:18 xun run.py[line:18] INFO [list 17/50] https://books.toscrape.com/catalogue/page-17.html
+2026-09-19 22:24:21 xun run.py[line:65] INFO   [+] normal 【Code Name Verity (Code Name Verity #1)】£22.13
+2026-09-19 22:24:21 xun run.py[line:65] INFO   [+] normal 【Clockwork Angel (The Infernal Devices #1)】£44.14
+2026-09-19 22:24:21 xun run.py[line:65] INFO   [+] normal 【City of Glass (The Mortal Instruments #3)】£56.02
+2026-09-19 22:24:21 xun run.py[line:65] INFO   [+] normal 【City of Fallen Angels (The Mortal Instruments #4)】£11.23
+2026-09-19 22:24:21 xun run.py[line:65] INFO   [+] normal 【City of Bones (The Mortal Instruments #1)】£43.28
+2026-09-19 22:24:21 xun run.py[line:65] INFO   [+] normal 【City of Ashes (The Mortal Instruments #2)】£47.27
+2026-09-19 22:24:21 xun run.py[line:65] INFO   [+] normal 【Cell】£20.29
+2026-09-19 22:24:21 xun run.py[line:65] INFO   [+] normal 【Catching Jordan (Hundred Oaks)】£50.83
+2026-09-19 22:24:21 xun run.py[line:65] INFO   [+] normal 【Carry On, Warrior: Thoughts on Life Unarmed】£31.85
+2026-09-19 22:24:21 xun run.py[line:65] INFO   [+] normal 【Carrie】£46.23
+2026-09-19 22:24:21 xun run.py[line:65] INFO   [+] normal 【Buying In: The Secret Dialogue Between What We Buy and Who We Are】£37.80
+2026-09-19 22:24:21 xun run.py[line:65] INFO   [+] normal 【Brain on Fire: My Month of Madness】£49.32
+2026-09-19 22:24:21 xun run.py[line:65] INFO   [+] normal 【Batman: Europa】£32.01
+2026-09-19 22:24:21 xun run.py[line:65] INFO   [+] normal 【Barefoot Contessa Back to Basics】£28.01
+2026-09-19 22:24:21 xun run.py[line:65] INFO   [+] normal 【Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again】£50.62
+2026-09-19 22:24:21 xun run.py[line:65] INFO   [+] normal 【Balloon Animals】£17.03
+2026-09-19 22:24:21 xun run.py[line:65] INFO   [+] normal 【Art Ops Vol. 1】£48.80
+2026-09-19 22:24:21 xun run.py[line:65] INFO   [+] normal 【Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1)】£58.14
+2026-09-19 22:24:21 xun run.py[line:65] INFO   [+] normal 【Angels Walking (Angels Walking #1)】£34.20
+2026-09-19 22:24:21 xun run.py[line:65] INFO   [+] normal 【Angels & Demons (Robert Langdon #1)】£51.48
+2026-09-19 22:24:21 xun run.py[line:18] INFO [list 18/50] https://books.toscrape.com/catalogue/page-18.html
+2026-09-19 22:24:24 xun run.py[line:65] INFO   [+] normal 【All the Light We Cannot See】£29.87
+2026-09-19 22:24:24 xun run.py[line:65] INFO   [+] normal 【Adulthood Is a Myth: A "Sarah's Scribbles" Collection】£10.90
+2026-09-19 22:24:24 xun run.py[line:65] INFO   [+] normal 【Abstract City】£56.37
+2026-09-19 22:24:24 xun run.py[line:65] INFO   [+] normal 【A Time of Torment (Charlie Parker #14)】£48.35
+2026-09-19 22:24:24 xun run.py[line:65] INFO   [+] normal 【A Study in Scarlet (Sherlock Holmes #1)】£16.73
+2026-09-19 22:24:24 xun run.py[line:65] INFO   [+] normal 【A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer】£56.48
+2026-09-19 22:24:24 xun run.py[line:65] INFO   [+] normal 【A People's History of the United States】£40.79
+2026-09-19 22:24:24 xun run.py[line:65] INFO   [+] normal 【A Man Called Ove】£39.72
+2026-09-19 22:24:24 xun run.py[line:65] INFO   [+] normal 【A Distant Mirror: The Calamitous 14th Century】£14.58
+2026-09-19 22:24:24 xun run.py[line:65] INFO   [+] normal 【A Brush of Wings (Angels Walking #3)】£55.51
+2026-09-19 22:24:24 xun run.py[line:65] INFO   [+] normal 【1491: New Revelations of the Americas Before Columbus】£21.80
+2026-09-19 22:24:24 xun run.py[line:65] INFO   [+] normal 【The Three Searches, Meaning, and the Story】£13.33
+2026-09-19 22:24:24 xun run.py[line:65] INFO   [+] normal 【Searching for Meaning in Gailana】£38.73
+2026-09-19 22:24:24 xun run.py[line:65] INFO   [+] normal 【Rook】£37.86
+2026-09-19 22:24:24 xun run.py[line:65] INFO   [+] normal 【My Kitchen Year: 136 Recipes That Saved My Life】£11.53
+2026-09-19 22:24:24 xun run.py[line:65] INFO   [+] normal 【13 Hours: The Inside Account of What Really Happened In Benghazi】£27.06
+2026-09-19 22:24:24 xun run.py[line:65] INFO   [+] normal 【Will You Won't You Want Me?】£13.86
+2026-09-19 22:24:24 xun run.py[line:65] INFO   [+] normal 【Tipping Point for Planet Earth: How Close Are We to the Edge?】£37.55
+2026-09-19 22:24:24 xun run.py[line:65] INFO   [+] normal 【The Star-Touched Queen】£32.30
+2026-09-19 22:24:24 xun run.py[line:65] INFO   [+] normal 【The Silent Sister (Riley MacPherson #1)】£46.29
+2026-09-19 22:24:24 xun run.py[line:18] INFO [list 19/50] https://books.toscrape.com/catalogue/page-19.html
+2026-09-19 22:24:26 xun run.py[line:65] INFO   [+] normal 【The Midnight Watch: A Novel of the Titanic and the Californian】£26.20
+2026-09-19 22:24:26 xun run.py[line:65] INFO   [+] normal 【The Lonely City: Adventures in the Art of Being Alone】£33.26
+2026-09-19 22:24:26 xun run.py[line:65] INFO   [+] normal 【The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore】£59.15
+2026-09-19 22:24:26 xun run.py[line:65] INFO   [+] normal 【The Golden Condom: And Other Essays on Love Lost and Found】£39.43
+2026-09-19 22:24:26 xun run.py[line:65] INFO   [+] normal 【The Epidemic (The Program 0.6)】£14.44
+2026-09-19 22:24:26 xun run.py[line:65] INFO   [+] normal 【The Dinner Party】£56.54
+2026-09-19 22:24:26 xun run.py[line:65] INFO   [+] normal 【The Diary of a Young Girl】£59.90
+2026-09-19 22:24:26 xun run.py[line:65] INFO   [+] normal 【The Children】£11.88
+2026-09-19 22:24:26 xun run.py[line:65] INFO   [+] normal 【Stars Above (The Lunar Chronicles #4.5)】£48.05
+2026-09-19 22:24:26 xun run.py[line:65] INFO   [+] normal 【Snatched: How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas】£21.21
+2026-09-19 22:24:26 xun run.py[line:65] INFO   [+] normal 【Raspberry Pi Electronics Projects for the Evil Genius】£49.67
+2026-09-19 22:24:26 xun run.py[line:65] INFO   [+] normal 【Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two】£43.14
+2026-09-19 22:24:26 xun run.py[line:65] INFO   [+] normal 【Psycho: Sanitarium (Psycho #1.5)】£36.97
+2026-09-19 22:24:26 xun run.py[line:65] INFO   [+] normal 【Poisonous (Max Revere Novels #3)】£26.80
+2026-09-19 22:24:26 xun run.py[line:65] INFO   [+] normal 【One with You (Crossfire #5)】£15.71
+2026-09-19 22:24:26 xun run.py[line:65] INFO   [+] normal 【No Love Allowed (Dodge Cove #1)】£54.65
+2026-09-19 22:24:26 xun run.py[line:65] INFO   [+] normal 【Murder at the 42nd Street Library (Raymond Ambler #1)】£54.36
+2026-09-19 22:24:26 xun run.py[line:65] INFO   [+] normal 【Most Wanted】£35.28
+2026-09-19 22:24:26 xun run.py[line:65] INFO   [+] normal 【Love, Lies and Spies】£20.55
+2026-09-19 22:24:26 xun run.py[line:65] INFO   [+] normal 【How to Speak Golf: An Illustrated Guide to Links Lingo】£58.32
+2026-09-19 22:24:26 xun run.py[line:18] INFO [list 20/50] https://books.toscrape.com/catalogue/page-20.html
+2026-09-19 22:24:28 xun run.py[line:65] INFO   [+] normal 【Hide Away (Eve Duncan #20)】£11.84
+2026-09-19 22:24:28 xun run.py[line:65] INFO   [+] normal 【Furiously Happy: A Funny Book About Horrible Things】£41.46
+2026-09-19 22:24:28 xun run.py[line:65] INFO   [+] normal 【Everyday Italian: 125 Simple and Delicious Recipes】£20.10
+2026-09-19 22:24:28 xun run.py[line:65] INFO   [+] normal 【Equal Is Unfair: America's Misguided Fight Against Income Inequality】£56.86
+2026-09-19 22:24:28 xun run.py[line:65] INFO   [+] normal 【Eleanor & Park】£56.51
+2026-09-19 22:24:28 xun run.py[line:65] INFO   [+] normal 【Dirty (Dive Bar #1)】£40.83
+2026-09-19 22:24:28 xun run.py[line:65] INFO   [+] normal 【Can You Keep a Secret? (Fear Street Relaunch #4)】£48.64
+2026-09-19 22:24:28 xun run.py[line:65] INFO   [+] normal 【Boar Island (Anna Pigeon #19)】£59.48
+2026-09-19 22:24:28 xun run.py[line:65] INFO   [+] normal 【A Paris Apartment】£39.01
+2026-09-19 22:24:28 xun run.py[line:65] INFO   [+] normal 【A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More】£38.77
+2026-09-19 22:24:28 xun run.py[line:65] INFO   [+] normal 【Troublemaker: Surviving Hollywood and Scientology】£48.39
+2026-09-19 22:24:28 xun run.py[line:65] INFO   [+] normal 【The Widow】£27.26
+2026-09-19 22:24:28 xun run.py[line:65] INFO   [+] normal 【The Sleep Revolution: Transforming Your Life, One Night at a Time】£11.68
+2026-09-19 22:24:28 xun run.py[line:65] INFO   [+] normal 【The Improbability of Love】£59.45
+2026-09-19 22:24:28 xun run.py[line:65] INFO   [+] normal 【The Art of Startup Fundraising】£21.00
+2026-09-19 22:24:28 xun run.py[line:65] INFO   [+] normal 【Take Me Home Tonight (Rock Star Romance #3)】£53.98
+2026-09-19 22:24:28 xun run.py[line:65] INFO   [+] normal 【Sleeping Giants (Themis Files #1)】£48.74
+2026-09-19 22:24:28 xun run.py[line:65] INFO   [+] normal 【Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena】£21.15
+2026-09-19 22:24:28 xun run.py[line:65] INFO   [+] normal 【Playing with Fire】£13.71
+2026-09-19 22:24:28 xun run.py[line:65] INFO   [+] normal 【Off the Hook (Fishing for Trouble #1)】£47.67
+2026-09-19 22:24:28 xun run.py[line:18] INFO [list 21/50] https://books.toscrape.com/catalogue/page-21.html
+2026-09-19 22:24:31 xun run.py[line:65] INFO   [+] normal 【Mothering Sunday】£13.34
+2026-09-19 22:24:31 xun run.py[line:65] INFO   [+] normal 【Mother, Can You Not?】£16.89
+2026-09-19 22:24:31 xun run.py[line:65] INFO   [+] normal 【M Train】£27.18
+2026-09-19 22:24:31 xun run.py[line:65] INFO   [+] normal 【Lilac Girls】£17.28
+2026-09-19 22:24:31 xun run.py[line:65] INFO   [+] normal 【Lies and Other Acts of Love】£45.14
+2026-09-19 22:24:31 xun run.py[line:65] INFO   [+] normal 【Lab Girl】£40.85
+2026-09-19 22:24:31 xun run.py[line:65] INFO   [+] normal 【Keep Me Posted】£20.46
+2026-09-19 22:24:31 xun run.py[line:65] INFO   [+] normal 【It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle】£56.27
+2026-09-19 22:24:31 xun run.py[line:65] INFO   [+] normal 【Grey (Fifty Shades #4)】£48.49
+2026-09-19 22:24:31 xun run.py[line:65] INFO   [+] normal 【Exit, Pursued by a Bear】£51.34
+2026-09-19 22:24:31 xun run.py[line:65] INFO   [+] normal 【Daredevils】£16.34
+2026-09-19 22:24:31 xun run.py[line:65] INFO   [+] normal 【Cravings: Recipes for What You Want to Eat】£20.50
+2026-09-19 22:24:31 xun run.py[line:65] INFO   [+] normal 【Born for This: How to Find the Work You Were Meant to Do】£21.59
+2026-09-19 22:24:31 xun run.py[line:65] INFO   [+] normal 【Arena】£21.36
+2026-09-19 22:24:31 xun run.py[line:65] INFO   [+] normal 【Adultery】£20.88
+2026-09-19 22:24:31 xun run.py[line:65] INFO   [+] normal 【A Mother's Reckoning: Living in the Aftermath of Tragedy】£19.53
+2026-09-19 22:24:31 xun run.py[line:65] INFO   [+] normal 【A Gentleman's Position (Society of Gentlemen #3)】£14.75
+2026-09-19 22:24:31 xun run.py[line:65] INFO   [+] normal 【11/22/63】£48.48
+2026-09-19 22:24:31 xun run.py[line:65] INFO   [+] normal 【10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works】£24.57
+2026-09-19 22:24:31 xun run.py[line:65] INFO   [+] normal 【10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!】£49.71
+2026-09-19 22:24:31 xun run.py[line:18] INFO [list 22/50] https://books.toscrape.com/catalogue/page-22.html
+2026-09-19 22:24:33 xun run.py[line:65] INFO   [+] normal 【Without Shame】£48.27
+2026-09-19 22:24:33 xun run.py[line:65] INFO   [+] normal 【Watchmen】£58.05
+2026-09-19 22:24:33 xun run.py[line:65] INFO   [+] normal 【Unlimited Intuition Now】£58.87
+2026-09-19 22:24:33 xun run.py[line:65] INFO   [+] normal 【Underlying Notes】£11.82
+2026-09-19 22:24:33 xun run.py[line:65] INFO   [+] normal 【The Shack】£28.03
+2026-09-19 22:24:33 xun run.py[line:65] INFO   [+] normal 【The New Brand You: Your New Image Makes the Sale for You】£44.05
+2026-09-19 22:24:33 xun run.py[line:65] INFO   [+] normal 【The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York】£12.34
+2026-09-19 22:24:33 xun run.py[line:65] INFO   [+] normal 【The Flowers Lied】£16.68
+2026-09-19 22:24:33 xun run.py[line:65] INFO   [+] normal 【The Fabric of the Cosmos: Space, Time, and the Texture of Reality】£55.91
+2026-09-19 22:24:33 xun run.py[line:65] INFO   [+] normal 【The Book of Mormon】£24.57
+2026-09-19 22:24:33 xun run.py[line:65] INFO   [+] normal 【The Art and Science of Low Carbohydrate Living】£52.98
+2026-09-19 22:24:33 xun run.py[line:65] INFO   [+] normal 【The Alien Club】£54.40
+2026-09-19 22:24:33 xun run.py[line:65] INFO   [+] normal 【Suzie Snowflake: One beautiful flake (a self-esteem story)】£54.81
+2026-09-19 22:24:33 xun run.py[line:65] INFO   [+] normal 【Nap-a-Roo】£25.08
+2026-09-19 22:24:33 xun run.py[line:65] INFO   [+] normal 【NaNo What Now? Finding your editing process, revising your NaNoWriMo book and building a writing career through publishing and beyond】£10.41
+2026-09-19 22:24:33 xun run.py[line:65] INFO   [+] normal 【Modern Day Fables】£47.44
+2026-09-19 22:24:33 xun run.py[line:65] INFO   [+] normal 【If I Gave You God's Phone Number....: Searching for Spirituality in America】£20.91
+2026-09-19 22:24:33 xun run.py[line:65] INFO   [+] normal 【Fruits Basket, Vol. 9 (Fruits Basket #9)】£33.95
+2026-09-19 22:24:33 xun run.py[line:65] INFO   [+] normal 【Dress Your Family in Corduroy and Denim】£43.68
+2026-09-19 22:24:33 xun run.py[line:65] INFO   [+] normal 【Don't Forget Steven】£33.23
+2026-09-19 22:24:33 xun run.py[line:18] INFO [list 23/50] https://books.toscrape.com/catalogue/page-23.html
+2026-09-19 22:24:36 xun run.py[line:65] INFO   [+] normal 【Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster】£35.92
+2026-09-19 22:24:36 xun run.py[line:65] INFO   [+] normal 【Art and Fear: Observations on the Perils (and Rewards) of Artmaking】£48.63
+2026-09-19 22:24:36 xun run.py[line:65] INFO   [+] normal 【A Shard of Ice (The Black Symphony Saga #1)】£56.63
+2026-09-19 22:24:36 xun run.py[line:65] INFO   [+] normal 【A Hero's Curse (The Unseen Chronicles #1)】£50.49
+2026-09-19 22:24:36 xun run.py[line:65] INFO   [+] normal 【23 Degrees South: A Tropical Tale of Changing Whether...】£35.79
+2026-09-19 22:24:36 xun run.py[line:65] INFO   [+] normal 【Zero to One: Notes on Startups, or How to Build the Future】£34.06
+2026-09-19 22:24:36 xun run.py[line:65] INFO   [+] normal 【Why Not Me?】£17.76
+2026-09-19 22:24:36 xun run.py[line:65] INFO   [+] normal 【When Breath Becomes Air】£39.36
+2026-09-19 22:24:36 xun run.py[line:65] INFO   [+] normal 【Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel】£36.94
+2026-09-19 22:24:36 xun run.py[line:65] INFO   [+] normal 【The Unlikely Pilgrimage of Harold Fry (Harold Fry #1)】£43.62
+2026-09-19 22:24:36 xun run.py[line:65] INFO   [+] normal 【The New Drawing on the Right Side of the Brain】£43.02
+2026-09-19 22:24:36 xun run.py[line:65] INFO   [+] normal 【The Midnight Assassin: Panic, Scandal, and the Hunt for America's First Serial Killer】£28.45
+2026-09-19 22:24:36 xun run.py[line:65] INFO   [+] normal 【The Martian (The Martian #1)】£41.39
+2026-09-19 22:24:36 xun run.py[line:65] INFO   [+] normal 【The High Mountains of Portugal】£51.15
+2026-09-19 22:24:36 xun run.py[line:65] INFO   [+] normal 【The Grownup】£35.88
+2026-09-19 22:24:36 xun run.py[line:65] INFO   [+] normal 【The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It】£36.91
+2026-09-19 22:24:36 xun run.py[line:65] INFO   [+] normal 【South of Sunshine】£28.93
+2026-09-19 22:24:36 xun run.py[line:65] INFO   [+] normal 【Smarter Faster Better: The Secrets of Being Productive in Life and Business】£38.89
+2026-09-19 22:24:36 xun run.py[line:65] INFO   [+] normal 【Silence in the Dark (Logan Point #4)】£58.33
+2026-09-19 22:24:36 xun run.py[line:65] INFO   [+] normal 【Shadows of the Past (Logan Point #1)】£39.67
+2026-09-19 22:24:36 xun run.py[line:18] INFO [list 24/50] https://books.toscrape.com/catalogue/page-24.html
+2026-09-19 22:24:39 xun run.py[line:65] INFO   [+] normal 【Roller Girl】£14.10
+2026-09-19 22:24:39 xun run.py[line:65] INFO   [+] normal 【Rising Strong】£21.82
+2026-09-19 22:24:39 xun run.py[line:65] INFO   [+] normal 【Proofs of God: Classical Arguments from Tertullian to Barth】£54.21
+2026-09-19 22:24:39 xun run.py[line:65] INFO   [+] normal 【Please Kill Me: The Uncensored Oral History of Punk】£31.19
+2026-09-19 22:24:39 xun run.py[line:65] INFO   [+] normal 【Out of Print: City Lights Spotlight No. 14】£53.64
+2026-09-19 22:24:39 xun run.py[line:65] INFO   [+] normal 【My Life Next Door (My Life Next Door )】£36.39
+2026-09-19 22:24:39 xun run.py[line:65] INFO   [+] normal 【Miller's Valley】£58.54
+2026-09-19 22:24:39 xun run.py[line:65] INFO   [+] normal 【Man's Search for Meaning】£29.48
+2026-09-19 22:24:39 xun run.py[line:65] INFO   [+] normal 【Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations】£25.06
+2026-09-19 22:24:39 xun run.py[line:65] INFO   [+] normal 【Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want】£12.55
+2026-09-19 22:24:39 xun run.py[line:65] INFO   [+] normal 【Les Fleurs du Mal】£29.04
+2026-09-19 22:24:39 xun run.py[line:65] INFO   [+] normal 【Left Behind (Left Behind #1)】£40.72
+2026-09-19 22:24:39 xun run.py[line:65] INFO   [+] normal 【Kill 'Em and Leave: Searching for James Brown and the American Soul】£45.05
+2026-09-19 22:24:39 xun run.py[line:65] INFO   [+] normal 【Kierkegaard: A Christian Missionary to Christians】£47.13
+2026-09-19 22:24:39 xun run.py[line:65] INFO   [+] normal 【John Vassos: Industrial Design for Modern Life】£20.22
+2026-09-19 22:24:39 xun run.py[line:65] INFO   [+] normal 【I'll Give You the Sun】£56.48
+2026-09-19 22:24:39 xun run.py[line:65] INFO   [+] normal 【I Will Find You】£44.21
+2026-09-19 22:24:39 xun run.py[line:65] INFO   [+] normal 【Hystopia: A Novel】£21.96
+2026-09-19 22:24:39 xun run.py[line:65] INFO   [+] normal 【Howl and Other Poems】£40.45
+2026-09-19 22:24:39 xun run.py[line:65] INFO   [+] normal 【History of Beauty】£10.29
+2026-09-19 22:24:39 xun run.py[line:18] INFO [list 25/50] https://books.toscrape.com/catalogue/page-25.html
+2026-09-19 22:24:43 xun run.py[line:65] INFO   [+] normal 【Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back】£52.86
+2026-09-19 22:24:43 xun run.py[line:65] INFO   [+] normal 【Future Shock (Future Shock #1)】£55.65
+2026-09-19 22:24:43 xun run.py[line:65] INFO   [+] normal 【Ender's Game (The Ender Quintet #1)】£43.64
+2026-09-19 22:24:43 xun run.py[line:65] INFO   [+] normal 【Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World】£28.41
+2026-09-19 22:24:43 xun run.py[line:65] INFO   [+] normal 【Death by Leisure: A Cautionary Tale】£37.51
+2026-09-19 22:24:43 xun run.py[line:65] INFO   [+] normal 【Brilliant Beacons: A History of the American Lighthouse】£11.45
+2026-09-19 22:24:43 xun run.py[line:65] INFO   [+] normal 【Brazen: The Courage to Find the You That's Been Hiding】£19.22
+2026-09-19 22:24:43 xun run.py[line:65] INFO   [+] normal 【Between the World and Me】£56.91
+2026-09-19 22:24:43 xun run.py[line:65] INFO   [+] normal 【Being Mortal: Medicine and What Matters in the End】£55.06
+2026-09-19 22:24:43 xun run.py[line:65] INFO   [+] normal 【A Murder Over a Girl: Justice, Gender, Junior High】£13.20
+2026-09-19 22:24:43 xun run.py[line:65] INFO   [+] normal 【32 Yolks】£53.63
+2026-09-19 22:24:43 xun run.py[line:65] INFO   [+] normal 【"Most Blessed of the Patriarchs": Thomas Jefferson and the Empire of the Imagination】£44.48
+2026-09-19 22:24:43 xun run.py[line:65] INFO   [+] normal 【You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life】£12.08
+2026-09-19 22:24:43 xun run.py[line:65] INFO   [+] normal 【Wildlife of New York: A Five-Borough Coloring Book】£22.14
+2026-09-19 22:24:43 xun run.py[line:65] INFO   [+] normal 【What Happened on Beale Street (Secrets of the South Mysteries #2)】£25.37
+2026-09-19 22:24:43 xun run.py[line:65] INFO   [+] normal 【Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain】£46.33
+2026-09-19 22:24:43 xun run.py[line:65] INFO   [+] normal 【Under the Tuscan Sun】£37.33
+2026-09-19 22:24:43 xun run.py[line:65] INFO   [+] normal 【Toddlers Are A**holes: It's Not Your Fault】£25.55
+2026-09-19 22:24:43 xun run.py[line:65] INFO   [+] normal 【The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible】£34.72
+2026-09-19 22:24:43 xun run.py[line:65] INFO   [+] normal 【The Whale】£35.96
+2026-09-19 22:24:43 xun run.py[line:18] INFO [list 26/50] https://books.toscrape.com/catalogue/page-26.html
+2026-09-19 22:24:46 xun run.py[line:65] INFO   [+] normal 【The Story of Art】£41.14
+2026-09-19 22:24:46 xun run.py[line:65] INFO   [+] normal 【The Origin of Species】£10.01
+2026-09-19 22:24:46 xun run.py[line:65] INFO   [+] normal 【The Great Gatsby】£36.05
+2026-09-19 22:24:46 xun run.py[line:65] INFO   [+] normal 【The Good Girl】£49.03
+2026-09-19 22:24:46 xun run.py[line:65] INFO   [+] normal 【The Glass Castle】£16.24
+2026-09-19 22:24:46 xun run.py[line:65] INFO   [+] normal 【The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist】£39.55
+2026-09-19 22:24:46 xun run.py[line:65] INFO   [+] normal 【The Drowning Girls】£35.67
+2026-09-19 22:24:46 xun run.py[line:65] INFO   [+] normal 【The Constant Princess (The Tudor Court #1)】£16.62
+2026-09-19 22:24:46 xun run.py[line:65] INFO   [+] normal 【The Bourne Identity (Jason Bourne #1)】£42.78
+2026-09-19 22:24:46 xun run.py[line:65] INFO   [+] normal 【The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)】£52.30
+2026-09-19 22:24:46 xun run.py[line:65] INFO   [+] normal 【The Art Book】£32.34
+2026-09-19 22:24:46 xun run.py[line:65] INFO   [+] normal 【The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change】£33.17
+2026-09-19 22:24:46 xun run.py[line:65] INFO   [+] normal 【Team of Rivals: The Political Genius of Abraham Lincoln】£20.12
+2026-09-19 22:24:46 xun run.py[line:65] INFO   [+] normal 【Steal Like an Artist: 10 Things Nobody Told You About Being Creative】£20.90
+2026-09-19 22:24:46 xun run.py[line:65] INFO   [+] normal 【Sit, Stay, Love】£20.90
+2026-09-19 22:24:46 xun run.py[line:65] INFO   [+] normal 【Sister Dear】£40.20
+2026-09-19 22:24:46 xun run.py[line:65] INFO   [+] normal 【Shrunken Treasures: Literary Classics, Short, Sweet, and Silly】£52.87
+2026-09-19 22:24:46 xun run.py[line:65] INFO   [+] normal 【Rich Dad, Poor Dad】£51.74
+2026-09-19 22:24:46 xun run.py[line:65] INFO   [+] normal 【Raymie Nightingale】£34.41
+2026-09-19 22:24:46 xun run.py[line:65] INFO   [+] normal 【Playing from the Heart】£32.38
+2026-09-19 22:24:46 xun run.py[line:18] INFO [list 27/50] https://books.toscrape.com/catalogue/page-27.html
+2026-09-19 22:24:51 xun run.py[line:65] INFO   [+] normal 【Nightstruck: A Novel】£50.35
+2026-09-19 22:24:51 xun run.py[line:65] INFO   [+] normal 【Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories】£11.38
+2026-09-19 22:24:51 xun run.py[line:65] INFO   [+] normal 【Meternity】£43.58
+2026-09-19 22:24:51 xun run.py[line:65] INFO   [+] normal 【Memoirs of a Geisha】£49.67
+2026-09-19 22:24:51 xun run.py[line:65] INFO   [+] normal 【Like Never Before (Walker Family #2)】£28.77
+2026-09-19 22:24:51 xun run.py[line:65] INFO   [+] normal 【Life of Pi】£13.22
+2026-09-19 22:24:51 xun run.py[line:65] INFO   [+] normal 【Leave This Song Behind: Teen Poetry at Its Best】£51.17
+2026-09-19 22:24:51 xun run.py[line:65] INFO   [+] normal 【King's Folly (The Kinsman Chronicles #1)】£39.61
+2026-09-19 22:24:51 xun run.py[line:65] INFO   [+] normal 【John Adams】£57.43
+2026-09-19 22:24:51 xun run.py[line:65] INFO   [+] normal 【How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything)】£46.01
+2026-09-19 22:24:51 xun run.py[line:65] INFO   [+] normal 【How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking】£28.25
+2026-09-19 22:24:51 xun run.py[line:65] INFO   [+] normal 【Good in Bed (Cannie Shapiro #1)】£37.05
+2026-09-19 22:24:51 xun run.py[line:65] INFO   [+] normal 【Fruits Basket, Vol. 7 (Fruits Basket #7)】£19.57
+2026-09-19 22:24:51 xun run.py[line:65] INFO   [+] normal 【For the Love: Fighting for Grace in a World of Impossible Standards】£45.13
+2026-09-19 22:24:51 xun run.py[line:65] INFO   [+] normal 【Finding God in the Ruins: How God Redeems Pain】£46.64
+2026-09-19 22:24:51 xun run.py[line:65] INFO   [+] normal 【Every Heart a Doorway (Every Heart A Doorway #1)】£12.16
+2026-09-19 22:24:51 xun run.py[line:65] INFO   [+] normal 【Delivering the Truth (Quaker Midwife Mystery #1)】£20.89
+2026-09-19 22:24:51 xun run.py[line:65] INFO   [+] normal 【Counted With the Stars (Out from Egypt #1)】£17.97
+2026-09-19 22:24:51 xun run.py[line:65] INFO   [+] normal 【Chronicles, Vol. 1】£52.60
+2026-09-19 22:24:51 xun run.py[line:65] INFO   [+] normal 【Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality】£25.77
+2026-09-19 22:24:51 xun run.py[line:18] INFO [list 28/50] https://books.toscrape.com/catalogue/page-28.html
+2026-09-19 22:24:54 xun run.py[line:65] INFO   [+] normal 【Benjamin Franklin: An American Life】£48.19
+2026-09-19 22:24:54 xun run.py[line:65] INFO   [+] normal 【At The Existentialist Café: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others】£29.93
+2026-09-19 22:24:54 xun run.py[line:65] INFO   [+] normal 【A Summer In Europe】£44.34
+2026-09-19 22:24:54 xun run.py[line:65] INFO   [+] normal 【A Short History of Nearly Everything】£52.40
+2026-09-19 22:24:54 xun run.py[line:65] INFO   [+] normal 【A Gathering of Shadows (Shades of Magic #2)】£44.81
+2026-09-19 22:24:54 xun run.py[line:65] INFO   [+] normal 【The Sound Of Love】£57.84
+2026-09-19 22:24:54 xun run.py[line:65] INFO   [+] normal 【The Rise and Fall of the Third Reich: A History of Nazi Germany】£39.67
+2026-09-19 22:24:54 xun run.py[line:65] INFO   [+] normal 【The Perks of Being a Wallflower】£55.02
+2026-09-19 22:24:54 xun run.py[line:65] INFO   [+] normal 【The Mysterious Affair at Styles (Hercule Poirot #1)】£24.80
+2026-09-19 22:24:54 xun run.py[line:65] INFO   [+] normal 【The Man Who Mistook His Wife for a Hat and Other Clinical Tales】£59.45
+2026-09-19 22:24:54 xun run.py[line:65] INFO   [+] normal 【The Makings of a Fatherless Child】£31.58
+2026-09-19 22:24:54 xun run.py[line:65] INFO   [+] normal 【The Joy of Cooking】£43.27
+2026-09-19 22:24:54 xun run.py[line:65] INFO   [+] normal 【The Invention of Wings】£37.34
+2026-09-19 22:24:54 xun run.py[line:65] INFO   [+] normal 【The Hobbit (Middle-Earth Universe)】£17.80
+2026-09-19 22:24:54 xun run.py[line:65] INFO   [+] normal 【The Great Railway Bazaar】£30.54
+2026-09-19 22:24:54 xun run.py[line:65] INFO   [+] normal 【The Golden Compass (His Dark Materials #1)】£18.77
+2026-09-19 22:24:54 xun run.py[line:65] INFO   [+] normal 【The God Delusion】£46.85
+2026-09-19 22:24:54 xun run.py[line:65] INFO   [+] normal 【The Girl You Left Behind (The Girl You Left Behind #1)】£15.79
+2026-09-19 22:24:54 xun run.py[line:65] INFO   [+] normal 【The Fellowship of the Ring (The Lord of the Rings #1)】£10.27
+2026-09-19 22:24:54 xun run.py[line:65] INFO   [+] normal 【The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1)】£15.42
+2026-09-19 22:24:54 xun run.py[line:18] INFO [list 29/50] https://books.toscrape.com/catalogue/page-29.html
+2026-09-19 22:24:59 xun run.py[line:65] INFO   [+] normal 【The Barefoot Contessa Cookbook】£59.92
+2026-09-19 22:24:59 xun run.py[line:65] INFO   [+] normal 【Tell the Wolves I'm Home】£50.96
+2026-09-19 22:24:59 xun run.py[line:65] INFO   [+] normal 【Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman】£30.60
+2026-09-19 22:24:59 xun run.py[line:65] INFO   [+] normal 【Pride and Prejudice】£19.27
+2026-09-19 22:24:59 xun run.py[line:65] INFO   [+] normal 【Musicophilia: Tales of Music and the Brain】£46.58
+2026-09-19 22:24:59 xun run.py[line:65] INFO   [+] normal 【Mere Christianity】£48.51
+2026-09-19 22:24:59 xun run.py[line:65] INFO   [+] normal 【Me Before You (Me Before You #1)】£19.02
+2026-09-19 22:24:59 xun run.py[line:65] INFO   [+] normal 【In the Woods (Dublin Murder Squad #1)】£38.38
+2026-09-19 22:24:59 xun run.py[line:65] INFO   [+] normal 【In Cold Blood】£49.98
+2026-09-19 22:24:59 xun run.py[line:65] INFO   [+] normal 【How to Stop Worrying and Start Living】£46.49
+2026-09-19 22:24:59 xun run.py[line:65] INFO   [+] normal 【Give It Back】£18.32
+2026-09-19 22:24:59 xun run.py[line:65] INFO   [+] normal 【Girl, Interrupted】£42.14
+2026-09-19 22:24:59 xun run.py[line:65] INFO   [+] normal 【Fun Home: A Family Tragicomic】£56.59
+2026-09-19 22:24:59 xun run.py[line:65] INFO   [+] normal 【Fruits Basket, Vol. 6 (Fruits Basket #6)】£20.96
+2026-09-19 22:24:59 xun run.py[line:65] INFO   [+] normal 【Deception Point】£40.32
+2026-09-19 22:24:59 xun run.py[line:65] INFO   [+] normal 【Death Note, Vol. 6: Give-and-Take (Death Note #6)】£36.39
+2026-09-19 22:24:59 xun run.py[line:65] INFO   [+] normal 【Catherine the Great: Portrait of a Woman】£58.55
+2026-09-19 22:24:59 xun run.py[line:65] INFO   [+] normal 【Better Homes and Gardens New Cook Book】£39.61
+2026-09-19 22:24:59 xun run.py[line:65] INFO   [+] normal 【An Unquiet Mind: A Memoir of Moods and Madness】£21.30
+2026-09-19 22:24:59 xun run.py[line:65] INFO   [+] normal 【A Year in Provence (Provence #1)】£56.88
+2026-09-19 22:24:59 xun run.py[line:18] INFO [list 30/50] https://books.toscrape.com/catalogue/page-30.html
+2026-09-19 22:25:14 xun run.py[line:65] INFO   [+] normal 【World Without End (The Pillars of the Earth #2)】£32.97
+2026-09-19 22:25:14 xun run.py[line:65] INFO   [+] normal 【Will Grayson, Will Grayson (Will Grayson, Will Grayson)】£47.31
+2026-09-19 22:25:14 xun run.py[line:65] INFO   [+] normal 【Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis】£48.67
+2026-09-19 22:25:14 xun run.py[line:65] INFO   [+] normal 【Where She Went (If I Stay #2)】£41.73
+2026-09-19 22:25:14 xun run.py[line:65] INFO   [+] normal 【What If?: Serious Scientific Answers to Absurd Hypothetical Questions】£53.68
+2026-09-19 22:25:14 xun run.py[line:65] INFO   [+] normal 【Two Summers】£14.64
+2026-09-19 22:25:14 xun run.py[line:65] INFO   [+] normal 【This Is Your Brain on Music: The Science of a Human Obsession】£38.40
+2026-09-19 22:25:14 xun run.py[line:65] INFO   [+] normal 【The Secret Garden】£15.08
+2026-09-19 22:25:14 xun run.py[line:65] INFO   [+] normal 【The Raven King (The Raven Cycle #4)】£30.57
+2026-09-19 22:25:14 xun run.py[line:65] INFO   [+] normal 【The Raven Boys (The Raven Cycle #1)】£57.74
+2026-09-19 22:25:14 xun run.py[line:65] INFO   [+] normal 【The Power Greens Cookbook: 140 Delicious Superfood Recipes】£11.05
+2026-09-19 22:25:14 xun run.py[line:65] INFO   [+] normal 【The Metamorphosis】£28.58
+2026-09-19 22:25:14 xun run.py[line:65] INFO   [+] normal 【The Mathews Men: Seven Brothers and the War Against Hitler's U-boats】£42.91
+2026-09-19 22:25:14 xun run.py[line:65] INFO   [+] normal 【The Little Paris Bookshop】£24.73
+2026-09-19 22:25:14 xun run.py[line:65] INFO   [+] normal 【The Hiding Place】£55.91
+2026-09-19 22:25:14 xun run.py[line:65] INFO   [+] normal 【The Grand Design】£13.76
+2026-09-19 22:25:14 xun run.py[line:65] INFO   [+] normal 【The Firm】£45.56
+2026-09-19 22:25:14 xun run.py[line:65] INFO   [+] normal 【The Fault in Our Stars】£47.22
+2026-09-19 22:25:14 xun run.py[line:65] INFO   [+] normal 【The False Prince (The Ascendance Trilogy #1)】£56.00
+2026-09-19 22:25:14 xun run.py[line:65] INFO   [+] normal 【The Expatriates】£44.58
+2026-09-19 22:25:14 xun run.py[line:18] INFO [list 31/50] https://books.toscrape.com/catalogue/page-31.html
+2026-09-19 22:25:18 xun run.py[line:65] INFO   [+] normal 【The Dream Thieves (The Raven Cycle #2)】£34.50
+2026-09-19 22:25:18 xun run.py[line:65] INFO   [+] normal 【The Darkest Corners】£11.33
+2026-09-19 22:25:18 xun run.py[line:65] INFO   [+] normal 【The Crossover】£38.77
+2026-09-19 22:25:18 xun run.py[line:65] INFO   [+] normal 【The 5th Wave (The 5th Wave #1)】£11.83
+2026-09-19 22:25:18 xun run.py[line:65] INFO   [+] normal 【Tell the Wind and Fire】£45.51
+2026-09-19 22:25:18 xun run.py[line:65] INFO   [+] normal 【Tell Me Three Things】£41.81
+2026-09-19 22:25:18 xun run.py[line:65] INFO   [+] normal 【Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut】£25.15
+2026-09-19 22:25:18 xun run.py[line:65] INFO   [+] normal 【Siddhartha】£34.22
+2026-09-19 22:25:18 xun run.py[line:65] INFO   [+] normal 【Shiver (The Wolves of Mercy Falls #1)】£16.23
+2026-09-19 22:25:18 xun run.py[line:65] INFO   [+] normal 【Remember Me?】£11.48
+2026-09-19 22:25:18 xun run.py[line:65] INFO   [+] normal 【Red Dragon (Hannibal Lecter #1)】£23.37
+2026-09-19 22:25:18 xun run.py[line:65] INFO   [+] normal 【Peak: Secrets from the New Science of Expertise】£16.28
+2026-09-19 22:25:18 xun run.py[line:65] INFO   [+] normal 【My Mother Was Nuts】£31.63
+2026-09-19 22:25:18 xun run.py[line:65] INFO   [+] normal 【Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens】£24.91
+2026-09-19 22:25:18 xun run.py[line:65] INFO   [+] normal 【Maybe Something Beautiful: How Art Transformed a Neighborhood】£22.54
+2026-09-19 22:25:18 xun run.py[line:65] INFO   [+] normal 【Lola and the Boy Next Door (Anna and the French Kiss #2)】£23.63
+2026-09-19 22:25:18 xun run.py[line:65] INFO   [+] normal 【Logan Kade (Fallen Crest High #5.5)】£13.12
+2026-09-19 22:25:18 xun run.py[line:65] INFO   [+] normal 【Last One Home (New Beginnings #1)】£59.98
+2026-09-19 22:25:18 xun run.py[line:65] INFO   [+] normal 【Killing Floor (Jack Reacher #1)】£31.49
+2026-09-19 22:25:18 xun run.py[line:65] INFO   [+] normal 【Kill the Boy Band】£15.52
+2026-09-19 22:25:18 xun run.py[line:18] INFO [list 32/50] https://books.toscrape.com/catalogue/page-32.html
+2026-09-19 22:25:22 xun run.py[line:65] INFO   [+] normal 【Isla and the Happily Ever After (Anna and the French Kiss #3)】£48.13
+2026-09-19 22:25:22 xun run.py[line:65] INFO   [+] normal 【If I Stay (If I Stay #1)】£38.13
+2026-09-19 22:25:22 xun run.py[line:65] INFO   [+] normal 【I Know Why the Caged Bird Sings (Maya Angelou's Autobiography #1)】£36.55
+2026-09-19 22:25:22 xun run.py[line:65] INFO   [+] normal 【Harry Potter and the Deathly Hallows (Harry Potter #7)】£23.32
+2026-09-19 22:25:22 xun run.py[line:65] INFO   [+] normal 【Fruits Basket, Vol. 5 (Fruits Basket #5)】£16.33
+2026-09-19 22:25:22 xun run.py[line:65] INFO   [+] normal 【Foundation (Foundation (Publication Order) #1)】£32.42
+2026-09-19 22:25:22 xun run.py[line:65] INFO   [+] normal 【Fool Me Once】£16.96
+2026-09-19 22:25:22 xun run.py[line:65] INFO   [+] normal 【Find Her (Detective D.D. Warren #8)】£22.37
+2026-09-19 22:25:22 xun run.py[line:65] INFO   [+] normal 【Evicted: Poverty and Profit in the American City】£42.27
+2026-09-19 22:25:22 xun run.py[line:65] INFO   [+] normal 【Drama】£38.70
+2026-09-19 22:25:22 xun run.py[line:65] INFO   [+] normal 【Dracula the Un-Dead】£35.63
+2026-09-19 22:25:22 xun run.py[line:65] INFO   [+] normal 【Digital Fortress】£58.00
+2026-09-19 22:25:22 xun run.py[line:65] INFO   [+] normal 【Death Note, Vol. 5: Whiteout (Death Note #5)】£52.41
+2026-09-19 22:25:22 xun run.py[line:65] INFO   [+] normal 【Data, A Love Story: How I Gamed Online Dating to Meet My Match】£32.35
+2026-09-19 22:25:22 xun run.py[line:65] INFO   [+] normal 【Critique of Pure Reason】£20.75
+2026-09-19 22:25:22 xun run.py[line:65] INFO   [+] normal 【Booked】£17.49
+2026-09-19 22:25:22 xun run.py[line:65] INFO   [+] normal 【Blue Lily, Lily Blue (The Raven Cycle #3)】£34.13
+2026-09-19 22:25:22 xun run.py[line:65] INFO   [+] normal 【Approval Junkie: Adventures in Caring Too Much】£58.81
+2026-09-19 22:25:22 xun run.py[line:65] INFO   [+] normal 【An Abundance of Katherines】£10.00
+2026-09-19 22:25:22 xun run.py[line:65] INFO   [+] normal 【America's War for the Greater Middle East: A Military History】£51.22
+2026-09-19 22:25:22 xun run.py[line:18] INFO [list 33/50] https://books.toscrape.com/catalogue/page-33.html
+2026-09-19 22:25:34 xun run.py[line:65] INFO   [+] normal 【Alight (The Generations Trilogy #2)】£58.59
+2026-09-19 22:25:34 xun run.py[line:65] INFO   [+] normal 【A Girl's Guide to Moving On (New Beginnings #2)】£31.30
+2026-09-19 22:25:34 xun run.py[line:65] INFO   [+] normal 【A Game of Thrones (A Song of Ice and Fire #1)】£46.42
+2026-09-19 22:25:34 xun run.py[line:65] INFO   [+] normal 【A Feast for Crows (A Song of Ice and Fire #4)】£17.21
+2026-09-19 22:25:34 xun run.py[line:65] INFO   [+] normal 【A Clash of Kings (A Song of Ice and Fire #2)】£10.79
+2026-09-19 22:25:34 xun run.py[line:65] INFO   [+] normal 【Vogue Colors A to Z: A Fashion Coloring Book】£52.35
+2026-09-19 22:25:34 xun run.py[line:65] INFO   [+] normal 【The Shining (The Shining #1)】£27.88
+2026-09-19 22:25:34 xun run.py[line:65] INFO   [+] normal 【The Pilgrim's Progress】£50.26
+2026-09-19 22:25:34 xun run.py[line:65] INFO   [+] normal 【The Perfect Play (Play by Play #1)】£59.99
+2026-09-19 22:25:34 xun run.py[line:65] INFO   [+] normal 【The Passion of Dolssa】£28.32
+2026-09-19 22:25:34 xun run.py[line:65] INFO   [+] normal 【The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe】£38.71
+2026-09-19 22:25:34 xun run.py[line:65] INFO   [+] normal 【The Hunger Games (The Hunger Games #1)】£29.85
+2026-09-19 22:25:34 xun run.py[line:65] INFO   [+] normal 【The Hound of the Baskervilles (Sherlock Holmes #5)】£14.82
+2026-09-19 22:25:34 xun run.py[line:65] INFO   [+] normal 【The Gunning of America: Business and the Making of American Gun Culture】£16.81
+2026-09-19 22:25:34 xun run.py[line:65] INFO   [+] normal 【The Geography of Bliss: One Grump's Search for the Happiest Places in the World】£28.23
+2026-09-19 22:25:34 xun run.py[line:65] INFO   [+] normal 【The Demonists (Demonist #1)】£52.11
+2026-09-19 22:25:34 xun run.py[line:65] INFO   [+] normal 【The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of Momochi House #4)】£27.88
+2026-09-19 22:25:34 xun run.py[line:65] INFO   [+] normal 【The Bone Hunters (Lexy Vaughan & Steven Macaulay #2)】£59.71
+2026-09-19 22:25:34 xun run.py[line:65] INFO   [+] normal 【The Beast (Black Dagger Brotherhood #14)】£46.08
+2026-09-19 22:25:34 xun run.py[line:65] INFO   [+] normal 【Some Women】£13.73
+2026-09-19 22:25:34 xun run.py[line:18] INFO [list 34/50] https://books.toscrape.com/catalogue/page-34.html
+2026-09-19 22:25:38 xun run.py[line:65] INFO   [+] normal 【Shopaholic Ties the Knot (Shopaholic #3)】£48.39
+2026-09-19 22:25:38 xun run.py[line:65] INFO   [+] normal 【Paper and Fire (The Great Library #2)】£49.45
+2026-09-19 22:25:38 xun run.py[line:65] INFO   [+] normal 【Outlander (Outlander #1)】£19.67
+2026-09-19 22:25:38 xun run.py[line:65] INFO   [+] normal 【Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors】£12.36
+2026-09-19 22:25:38 xun run.py[line:65] INFO   [+] normal 【No One Here Gets Out Alive】£20.02
+2026-09-19 22:25:38 xun run.py[line:65] INFO   [+] normal 【Night Shift (Night Shift #1-20)】£12.75
+2026-09-19 22:25:38 xun run.py[line:65] INFO   [+] normal 【Needful Things】£47.51
+2026-09-19 22:25:38 xun run.py[line:65] INFO   [+] normal 【Mockingjay (The Hunger Games #3)】£20.44
+2026-09-19 22:25:38 xun run.py[line:65] INFO   [+] normal 【Misery】£34.79
+2026-09-19 22:25:38 xun run.py[line:65] INFO   [+] normal 【Little Women (Little Women #1)】£28.07
+2026-09-19 22:25:38 xun run.py[line:65] INFO   [+] normal 【It】£25.01
+2026-09-19 22:25:38 xun run.py[line:65] INFO   [+] normal 【Harry Potter and the Sorcerer's Stone (Harry Potter #1)】£13.90
+2026-09-19 22:25:38 xun run.py[line:65] INFO   [+] normal 【Harry Potter and the Prisoner of Azkaban (Harry Potter #3)】£24.17
+2026-09-19 22:25:38 xun run.py[line:65] INFO   [+] normal 【Harry Potter and the Order of the Phoenix (Harry Potter #5)】£31.63
+2026-09-19 22:25:38 xun run.py[line:65] INFO   [+] normal 【Harry Potter and the Half-Blood Prince (Harry Potter #6)】£48.75
+2026-09-19 22:25:38 xun run.py[line:65] INFO   [+] normal 【Harry Potter and the Chamber of Secrets (Harry Potter #2)】£14.74
+2026-09-19 22:25:38 xun run.py[line:65] INFO   [+] normal 【Gone with the Wind】£32.49
+2026-09-19 22:25:38 xun run.py[line:65] INFO   [+] normal 【God Is Not Great: How Religion Poisons Everything】£27.80
+2026-09-19 22:25:38 xun run.py[line:65] INFO   [+] normal 【Girl With a Pearl Earring】£26.77
+2026-09-19 22:25:38 xun run.py[line:65] INFO   [+] normal 【Fruits Basket, Vol. 4 (Fruits Basket #4)】£50.44
+2026-09-19 22:25:38 xun run.py[line:18] INFO [list 35/50] https://books.toscrape.com/catalogue/page-35.html
+2026-09-19 22:25:42 xun run.py[line:65] INFO   [+] normal 【Far From True (Promise Falls Trilogy #2)】£34.93
+2026-09-19 22:25:42 xun run.py[line:65] INFO   [+] normal 【Dark Lover (Black Dagger Brotherhood #1)】£12.87
+2026-09-19 22:25:42 xun run.py[line:65] INFO   [+] normal 【Confessions of a Shopaholic (Shopaholic #1)】£48.94
+2026-09-19 22:25:42 xun run.py[line:65] INFO   [+] normal 【Changing the Game (Play by Play #2)】£13.38
+2026-09-19 22:25:42 xun run.py[line:65] INFO   [+] normal 【Candide】£58.63
+2026-09-19 22:25:42 xun run.py[line:65] INFO   [+] normal 【Can You Keep a Secret?】£21.94
+2026-09-19 22:25:42 xun run.py[line:65] INFO   [+] normal 【Atlas Shrugged】£26.58
+2026-09-19 22:25:42 xun run.py[line:65] INFO   [+] normal 【Animal Farm】£57.22
+2026-09-19 22:25:42 xun run.py[line:65] INFO   [+] normal 【A Walk to Remember】£56.43
+2026-09-19 22:25:42 xun run.py[line:65] INFO   [+] normal 【A New Earth: Awakening to Your Life's Purpose】£55.65
+2026-09-19 22:25:42 xun run.py[line:65] INFO   [+] normal 【A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam】£27.62
+2026-09-19 22:25:42 xun run.py[line:65] INFO   [+] normal 【'Salem's Lot】£49.56
+2026-09-19 22:25:42 xun run.py[line:65] INFO   [+] normal 【Zero History (Blue Ant #3)】£34.77
+2026-09-19 22:25:42 xun run.py[line:65] INFO   [+] normal 【Wuthering Heights】£17.73
+2026-09-19 22:25:42 xun run.py[line:65] INFO   [+] normal 【World War Z: An Oral History of the Zombie War】£21.80
+2026-09-19 22:25:42 xun run.py[line:65] INFO   [+] normal 【Wild: From Lost to Found on the Pacific Crest Trail】£46.02
+2026-09-19 22:25:42 xun run.py[line:65] INFO   [+] normal 【Where'd You Go, Bernadette】£18.13
+2026-09-19 22:25:42 xun run.py[line:65] INFO   [+] normal 【When You Are Engulfed in Flames】£30.89
+2026-09-19 22:25:42 xun run.py[line:65] INFO   [+] normal 【We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America】£31.95
+2026-09-19 22:25:42 xun run.py[line:65] INFO   [+] normal 【We Are All Completely Beside Ourselves】£24.04
+2026-09-19 22:25:42 xun run.py[line:18] INFO [list 36/50] https://books.toscrape.com/catalogue/page-36.html
+2026-09-19 22:25:55 xun run.py[line:65] INFO   [+] normal 【Walk the Edge (Thunder Road #2)】£32.36
+2026-09-19 22:25:55 xun run.py[line:65] INFO   [+] normal 【Voyager (Outlander #3)】£21.07
+2026-09-19 22:25:55 xun run.py[line:65] INFO   [+] normal 【Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination】£50.66
+2026-09-19 22:25:55 xun run.py[line:65] INFO   [+] normal 【Vegan Vegetarian Omnivore: Dinner for Everyone at the Table】£13.66
+2026-09-19 22:25:55 xun run.py[line:65] INFO   [+] normal 【Unstuffed: Decluttering Your Home, Mind, and Soul】£58.09
+2026-09-19 22:25:55 xun run.py[line:65] INFO   [+] normal 【Under the Banner of Heaven: A Story of Violent Faith】£30.00
+2026-09-19 22:25:55 xun run.py[line:65] INFO   [+] normal 【Two Boys Kissing】£32.74
+2026-09-19 22:25:55 xun run.py[line:65] INFO   [+] normal 【Twilight (Twilight #1)】£41.93
+2026-09-19 22:25:55 xun run.py[line:65] INFO   [+] normal 【Twenties Girl】£42.80
+2026-09-19 22:25:55 xun run.py[line:65] INFO   [+] normal 【Trespassing Across America: One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland】£53.51
+2026-09-19 22:25:55 xun run.py[line:65] INFO   [+] normal 【Three-Martini Lunch】£23.21
+2026-09-19 22:25:55 xun run.py[line:65] INFO   [+] normal 【Thinking, Fast and Slow】£21.14
+2026-09-19 22:25:55 xun run.py[line:65] INFO   [+] normal 【The Wild Robot】£56.07
+2026-09-19 22:25:55 xun run.py[line:65] INFO   [+] normal 【The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + The Divine)】£14.41
+2026-09-19 22:25:55 xun run.py[line:65] INFO   [+] normal 【The Undomestic Goddess】£45.75
+2026-09-19 22:25:55 xun run.py[line:65] INFO   [+] normal 【The Travelers】£15.77
+2026-09-19 22:25:55 xun run.py[line:65] INFO   [+] normal 【The Tipping Point: How Little Things Can Make a Big Difference】£10.02
+2026-09-19 22:25:55 xun run.py[line:65] INFO   [+] normal 【The Thing About Jellyfish】£48.77
+2026-09-19 22:25:55 xun run.py[line:65] INFO   [+] normal 【The Stand】£57.86
+2026-09-19 22:25:55 xun run.py[line:65] INFO   [+] normal 【The Smitten Kitchen Cookbook】£23.59
+2026-09-19 22:25:55 xun run.py[line:18] INFO [list 37/50] https://books.toscrape.com/catalogue/page-37.html
+2026-09-19 22:25:57 xun run.py[line:65] INFO   [+] normal 【The Silkworm (Cormoran Strike #2)】£23.05
+2026-09-19 22:25:57 xun run.py[line:65] INFO   [+] normal 【The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)】£55.55
+2026-09-19 22:25:57 xun run.py[line:65] INFO   [+] normal 【The Rose & the Dagger (The Wrath and the Dawn #2)】£58.64
+2026-09-19 22:25:57 xun run.py[line:65] INFO   [+] normal 【The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)】£23.21
+2026-09-19 22:25:57 xun run.py[line:65] INFO   [+] normal 【The Rise of Theodore Roosevelt (Theodore Roosevelt #1)】£42.57
+2026-09-19 22:25:57 xun run.py[line:65] INFO   [+] normal 【The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2)】£10.92
+2026-09-19 22:25:57 xun run.py[line:65] INFO   [+] normal 【The Rest Is Noise: Listening to the Twentieth Century】£34.77
+2026-09-19 22:25:57 xun run.py[line:65] INFO   [+] normal 【The Red Tent】£35.66
+2026-09-19 22:25:57 xun run.py[line:65] INFO   [+] normal 【The Purpose Driven Life: What on Earth Am I Here for?】£37.19
+2026-09-19 22:25:57 xun run.py[line:65] INFO   [+] normal 【The Purest Hook (Second Circle Tattoos #3)】£12.25
+2026-09-19 22:25:57 xun run.py[line:65] INFO   [+] normal 【The Picture of Dorian Gray】£29.70
+2026-09-19 22:25:57 xun run.py[line:65] INFO   [+] normal 【The Paris Wife】£36.80
+2026-09-19 22:25:57 xun run.py[line:65] INFO   [+] normal 【The Obsession】£45.43
+2026-09-19 22:25:57 xun run.py[line:65] INFO   [+] normal 【The Nightingale】£26.26
+2026-09-19 22:25:57 xun run.py[line:65] INFO   [+] normal 【The New Guy (and Other Senior Year Distractions)】£44.92
+2026-09-19 22:25:57 xun run.py[line:65] INFO   [+] normal 【The Nanny Diaries (Nanny #1)】£52.53
+2026-09-19 22:25:57 xun run.py[line:65] INFO   [+] normal 【The Name of God is Mercy】£37.25
+2026-09-19 22:25:57 xun run.py[line:65] INFO   [+] normal 【The Maze Runner (The Maze Runner #1)】£20.93
+2026-09-19 22:25:57 xun run.py[line:65] INFO   [+] normal 【The Lover's Dictionary】£58.09
+2026-09-19 22:25:57 xun run.py[line:65] INFO   [+] normal 【The Lonely Ones】£43.59
+2026-09-19 22:25:57 xun run.py[line:18] INFO [list 38/50] https://books.toscrape.com/catalogue/page-38.html
+2026-09-19 22:25:59 xun run.py[line:65] INFO   [+] normal 【The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses】£33.92
+2026-09-19 22:25:59 xun run.py[line:65] INFO   [+] normal 【The Last Painting of Sara de Vos】£55.55
+2026-09-19 22:25:59 xun run.py[line:65] INFO   [+] normal 【The Land of 10,000 Madonnas】£29.64
+2026-09-19 22:25:59 xun run.py[line:65] INFO   [+] normal 【The Infinities】£27.41
+2026-09-19 22:25:59 xun run.py[line:65] INFO   [+] normal 【The Husband's Secret】£52.51
+2026-09-19 22:25:59 xun run.py[line:65] INFO   [+] normal 【The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1)】£47.80
+2026-09-19 22:25:59 xun run.py[line:65] INFO   [+] normal 【The Guns of August】£14.54
+2026-09-19 22:25:59 xun run.py[line:65] INFO   [+] normal 【The Guernsey Literary and Potato Peel Pie Society】£49.53
+2026-09-19 22:25:59 xun run.py[line:65] INFO   [+] normal 【The Goldfinch】£43.58
+2026-09-19 22:25:59 xun run.py[line:65] INFO   [+] normal 【The Giver (The Giver Quartet #1)】£12.30
+2026-09-19 22:25:59 xun run.py[line:65] INFO   [+] normal 【The Girl with All the Gifts】£49.47
+2026-09-19 22:25:59 xun run.py[line:65] INFO   [+] normal 【The Girl Who Played with Fire (Millennium Trilogy #2)】£22.14
+2026-09-19 22:25:59 xun run.py[line:65] INFO   [+] normal 【The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3)】£57.48
+2026-09-19 22:25:59 xun run.py[line:65] INFO   [+] normal 【The Exiled】£43.45
+2026-09-19 22:25:59 xun run.py[line:65] INFO   [+] normal 【The End of Faith: Religion, Terror, and the Future of Reason】£22.13
+2026-09-19 22:25:59 xun run.py[line:65] INFO   [+] normal 【The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory】£13.03
+2026-09-19 22:25:59 xun run.py[line:65] INFO   [+] normal 【The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements】£57.35
+2026-09-19 22:25:59 xun run.py[line:65] INFO   [+] normal 【The Devil Wears Prada (The Devil Wears Prada #1)】£44.29
+2026-09-19 22:25:59 xun run.py[line:65] INFO   [+] normal 【The Demon-Haunted World: Science as a Candle in the Dark】£52.25
+2026-09-19 22:25:59 xun run.py[line:65] INFO   [+] normal 【The Day the Crayons Came Home (Crayons)】£26.33
+2026-09-19 22:25:59 xun run.py[line:18] INFO [list 39/50] https://books.toscrape.com/catalogue/page-39.html
+2026-09-19 22:26:02 xun run.py[line:65] INFO   [+] normal 【The Da Vinci Code (Robert Langdon #2)】£22.96
+2026-09-19 22:26:02 xun run.py[line:65] INFO   [+] normal 【The Cuckoo's Calling (Cormoran Strike #1)】£19.21
+2026-09-19 22:26:02 xun run.py[line:65] INFO   [+] normal 【The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition])】£26.78
+2026-09-19 22:26:02 xun run.py[line:65] INFO   [+] normal 【The Complete Poems】£41.32
+2026-09-19 22:26:02 xun run.py[line:65] INFO   [+] normal 【The Catcher in the Rye】£24.55
+2026-09-19 22:26:02 xun run.py[line:65] INFO   [+] normal 【The Cat in the Hat (Beginner Books B-1)】£16.26
+2026-09-19 22:26:02 xun run.py[line:65] INFO   [+] normal 【The Case for Christ (Cases for Christianity)】£47.84
+2026-09-19 22:26:02 xun run.py[line:65] INFO   [+] normal 【The Book Thief】£53.49
+2026-09-19 22:26:02 xun run.py[line:65] INFO   [+] normal 【The Book of Basketball: The NBA According to The Sports Guy】£44.84
+2026-09-19 22:26:02 xun run.py[line:65] INFO   [+] normal 【The Blind Side: Evolution of a Game】£53.71
+2026-09-19 22:26:02 xun run.py[line:65] INFO   [+] normal 【The Autobiography of Malcolm X】£23.43
+2026-09-19 22:26:02 xun run.py[line:65] INFO   [+] normal 【The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution】£34.32
+2026-09-19 22:26:02 xun run.py[line:65] INFO   [+] normal 【The Art of Fielding】£22.10
+2026-09-19 22:26:02 xun run.py[line:65] INFO   [+] normal 【Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character】£25.83
+2026-09-19 22:26:02 xun run.py[line:65] INFO   [+] normal 【Stiff: The Curious Lives of Human Cadavers】£36.74
+2026-09-19 22:26:02 xun run.py[line:65] INFO   [+] normal 【Spilled Milk: Based on a True Story】£49.51
+2026-09-19 22:26:02 xun run.py[line:65] INFO   [+] normal 【Something Borrowed (Darcy & Rachel #1)】£48.96
+2026-09-19 22:26:02 xun run.py[line:65] INFO   [+] normal 【Something Blue (Darcy & Rachel #2)】£54.62
+2026-09-19 22:26:02 xun run.py[line:65] INFO   [+] normal 【Soldier (Talon #3)】£24.72
+2026-09-19 22:26:02 xun run.py[line:65] INFO   [+] normal 【Shopaholic & Baby (Shopaholic #5)】£46.45
+2026-09-19 22:26:02 xun run.py[line:18] INFO [list 40/50] https://books.toscrape.com/catalogue/page-40.html
+2026-09-19 22:26:08 xun run.py[line:65] INFO   [+] normal 【Seven Days in the Art World】£52.33
+2026-09-19 22:26:08 xun run.py[line:65] INFO   [+] normal 【Seven Brief Lessons on Physics】£30.60
+2026-09-19 22:26:08 xun run.py[line:65] INFO   [+] normal 【Scarlet (The Lunar Chronicles #2)】£14.57
+2026-09-19 22:26:08 xun run.py[line:65] INFO   [+] normal 【Sarah's Key】£46.29
+2026-09-19 22:26:08 xun run.py[line:65] INFO   [+] normal 【Saga, Volume 3 (Saga (Collected Editions) #3)】£21.57
+2026-09-19 22:26:08 xun run.py[line:65] INFO   [+] normal 【Running with Scissors】£12.91
+2026-09-19 22:26:08 xun run.py[line:65] INFO   [+] normal 【Rogue Lawyer (Rogue Lawyer #1)】£50.11
+2026-09-19 22:26:08 xun run.py[line:65] INFO   [+] normal 【Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars】£41.67
+2026-09-19 22:26:08 xun run.py[line:65] INFO   [+] normal 【Rework】£44.88
+2026-09-19 22:26:08 xun run.py[line:65] INFO   [+] normal 【Reservations for Two】£11.10
+2026-09-19 22:26:08 xun run.py[line:65] INFO   [+] normal 【Red: The True Story of Red Riding Hood】£28.54
+2026-09-19 22:26:08 xun run.py[line:65] INFO   [+] normal 【Ready Player One】£19.07
+2026-09-19 22:26:08 xun run.py[line:65] INFO   [+] normal 【Quiet: The Power of Introverts in a World That Can't Stop Talking】£43.55
+2026-09-19 22:26:08 xun run.py[line:65] INFO   [+] normal 【Prodigy: The Graphic Novel (Legend: The Graphic Novel #2)】£43.63
+2026-09-19 22:26:08 xun run.py[line:65] INFO   [+] normal 【Persepolis: The Story of a Childhood (Persepolis #1-2)】£39.13
+2026-09-19 22:26:08 xun run.py[line:65] INFO   [+] normal 【Packing for Mars: The Curious Science of Life in the Void】£56.68
+2026-09-19 22:26:08 xun run.py[line:65] INFO   [+] normal 【Outliers: The Story of Success】£14.16
+2026-09-19 22:26:08 xun run.py[line:65] INFO   [+] normal 【Original Fake】£31.45
+2026-09-19 22:26:08 xun run.py[line:65] INFO   [+] normal 【Orange Is the New Black】£24.61
+2026-09-19 22:26:08 xun run.py[line:65] INFO   [+] normal 【One for the Money (Stephanie Plum #1)】£32.87
+2026-09-19 22:26:08 xun run.py[line:18] INFO [list 41/50] https://books.toscrape.com/catalogue/page-41.html
+2026-09-19 22:26:11 xun run.py[line:65] INFO   [+] normal 【Notes from a Small Island (Notes From a Small Island #1)】£40.17
+2026-09-19 22:26:11 xun run.py[line:65] INFO   [+] normal 【Night (The Night Trilogy #1)】£13.51
+2026-09-19 22:26:11 xun run.py[line:65] INFO   [+] normal 【Neither Here nor There: Travels in Europe】£38.95
+2026-09-19 22:26:11 xun run.py[line:65] INFO   [+] normal 【Naked】£31.69
+2026-09-19 22:26:11 xun run.py[line:65] INFO   [+] normal 【Morning Star (Red Rising #3)】£29.40
+2026-09-19 22:26:11 xun run.py[line:65] INFO   [+] normal 【Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing】£57.83
+2026-09-19 22:26:11 xun run.py[line:65] INFO   [+] normal 【Midnight Riot (Peter Grant/ Rivers of London - books #1)】£55.46
+2026-09-19 22:26:11 xun run.py[line:65] INFO   [+] normal 【Me Talk Pretty One Day】£57.60
+2026-09-19 22:26:11 xun run.py[line:65] INFO   [+] normal 【Manuscript Found in Accra】£34.98
+2026-09-19 22:26:11 xun run.py[line:65] INFO   [+] normal 【Lust & Wonder】£11.87
+2026-09-19 22:26:11 xun run.py[line:65] INFO   [+] normal 【Lila (Gilead #3)】£12.47
+2026-09-19 22:26:11 xun run.py[line:65] INFO   [+] normal 【Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)】£33.26
+2026-09-19 22:26:11 xun run.py[line:65] INFO   [+] normal 【Life Without a Recipe】£59.04
+2026-09-19 22:26:11 xun run.py[line:65] INFO   [+] normal 【Life After Life】£26.13
+2026-09-19 22:26:11 xun run.py[line:65] INFO   [+] normal 【Letter to a Christian Nation】£22.20
+2026-09-19 22:26:11 xun run.py[line:65] INFO   [+] normal 【Let's Pretend This Never Happened: A Mostly True Memoir】£45.11
+2026-09-19 22:26:11 xun run.py[line:65] INFO   [+] normal 【Legend (Legend #1)】£43.69
+2026-09-19 22:26:11 xun run.py[line:65] INFO   [+] normal 【Lean In: Women, Work, and the Will to Lead】£25.02
+2026-09-19 22:26:11 xun run.py[line:65] INFO   [+] normal 【Lamb: The Gospel According to Biff, Christ's Childhood Pal】£55.50
+2026-09-19 22:26:11 xun run.py[line:65] INFO   [+] normal 【Lady Renegades (Rebel Belle #3)】£53.04
+2026-09-19 22:26:11 xun run.py[line:18] INFO [list 42/50] https://books.toscrape.com/catalogue/page-42.html
+2026-09-19 22:26:14 xun run.py[line:65] INFO   [+] normal 【Jurassic Park (Jurassic Park #1)】£44.97
+2026-09-19 22:26:14 xun run.py[line:65] INFO   [+] normal 【It's Never Too Late to Begin Again: Discovering Creativity and Meaning at Midlife and Beyond】£42.38
+2026-09-19 22:26:14 xun run.py[line:65] INFO   [+] normal 【Is Everyone Hanging Out Without Me? (And Other Concerns)】£20.11
+2026-09-19 22:26:14 xun run.py[line:65] INFO   [+] normal 【Into the Wild】£56.70
+2026-09-19 22:26:14 xun run.py[line:65] INFO   [+] normal 【Inferno (Robert Langdon #4)】£41.00
+2026-09-19 22:26:14 xun run.py[line:65] INFO   [+] normal 【In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin】£28.85
+2026-09-19 22:26:14 xun run.py[line:65] INFO   [+] normal 【If I Run (If I Run #1)】£49.97
+2026-09-19 22:26:14 xun run.py[line:65] INFO   [+] normal 【I've Got Your Number】£19.69
+2026-09-19 22:26:14 xun run.py[line:65] INFO   [+] normal 【I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban】£28.88
+2026-09-19 22:26:14 xun run.py[line:65] INFO   [+] normal 【Hungry Girl Clean & Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World】£33.14
+2026-09-19 22:26:14 xun run.py[line:65] INFO   [+] normal 【House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth】£43.70
+2026-09-19 22:26:14 xun run.py[line:65] INFO   [+] normal 【House of Leaves】£54.89
+2026-09-19 22:26:14 xun run.py[line:65] INFO   [+] normal 【Horrible Bear!】£37.52
+2026-09-19 22:26:14 xun run.py[line:65] INFO   [+] normal 【Holidays on Ice】£51.07
+2026-09-19 22:26:14 xun run.py[line:65] INFO   [+] normal 【Heir to the Sky】£44.07
+2026-09-19 22:26:14 xun run.py[line:65] INFO   [+] normal 【Green Eggs and Ham (Beginner Books B-16)】£10.79
+2026-09-19 22:26:14 xun run.py[line:65] INFO   [+] normal 【Grayson, Vol 3: Nemesis (Grayson #3)】£42.72
+2026-09-19 22:26:14 xun run.py[line:65] INFO   [+] normal 【Gratitude】£26.66
+2026-09-19 22:26:14 xun run.py[line:65] INFO   [+] normal 【Gone Girl】£37.60
+2026-09-19 22:26:14 xun run.py[line:65] INFO   [+] normal 【Golden (Heart of Dread #3)】£42.21
+2026-09-19 22:26:14 xun run.py[line:18] INFO [list 43/50] https://books.toscrape.com/catalogue/page-43.html
+2026-09-19 22:26:17 xun run.py[line:65] INFO   [+] normal 【Girl in the Blue Coat】£46.83
+2026-09-19 22:26:17 xun run.py[line:65] INFO   [+] normal 【Fruits Basket, Vol. 3 (Fruits Basket #3)】£45.17
+2026-09-19 22:26:17 xun run.py[line:65] INFO   [+] normal 【Friday Night Lights: A Town, a Team, and a Dream】£51.22
+2026-09-19 22:26:17 xun run.py[line:65] INFO   [+] normal 【Fire Bound (Sea Haven/Sisters of the Heart #5)】£21.28
+2026-09-19 22:26:17 xun run.py[line:65] INFO   [+] normal 【Fifty Shades Freed (Fifty Shades #3)】£15.36
+2026-09-19 22:26:17 xun run.py[line:65] INFO   [+] normal 【Fellside】£38.62
+2026-09-19 22:26:17 xun run.py[line:65] INFO   [+] normal 【Extreme Prey (Lucas Davenport #26)】£25.40
+2026-09-19 22:26:17 xun run.py[line:65] INFO   [+] normal 【Eragon (The Inheritance Cycle #1)】£43.87
+2026-09-19 22:26:17 xun run.py[line:65] INFO   [+] normal 【Eclipse (Twilight #3)】£18.74
+2026-09-19 22:26:17 xun run.py[line:65] INFO   [+] normal 【Dune (Dune #1)】£54.86
+2026-09-19 22:26:17 xun run.py[line:65] INFO   [+] normal 【Dracula】£52.62
+2026-09-19 22:26:17 xun run.py[line:65] INFO   [+] normal 【Do Androids Dream of Electric Sheep? (Blade Runner #1)】£51.48
+2026-09-19 22:26:17 xun run.py[line:65] INFO   [+] normal 【Disrupted: My Misadventure in the Start-Up Bubble】£15.28
+2026-09-19 22:26:17 xun run.py[line:65] INFO   [+] normal 【Dead Wake: The Last Crossing of the Lusitania】£39.24
+2026-09-19 22:26:17 xun run.py[line:65] INFO   [+] normal 【David and Goliath: Underdogs, Misfits, and the Art of Battling Giants】£17.81
+2026-09-19 22:26:17 xun run.py[line:65] INFO   [+] normal 【Darkfever (Fever #1)】£56.02
+2026-09-19 22:26:17 xun run.py[line:65] INFO   [+] normal 【Dark Places】£23.90
+2026-09-19 22:26:17 xun run.py[line:65] INFO   [+] normal 【Crazy Rich Asians (Crazy Rich Asians #1)】£49.13
+2026-09-19 22:26:17 xun run.py[line:65] INFO   [+] normal 【Counting Thyme】£10.62
+2026-09-19 22:26:17 xun run.py[line:65] INFO   [+] normal 【Cosmos】£36.17
+2026-09-19 22:26:17 xun run.py[line:18] INFO [list 44/50] https://books.toscrape.com/catalogue/page-44.html
+2026-09-19 22:26:20 xun run.py[line:65] INFO   [+] normal 【Civilization and Its Discontents】£59.95
+2026-09-19 22:26:20 xun run.py[line:65] INFO   [+] normal 【Cinder (The Lunar Chronicles #1)】£26.09
+2026-09-19 22:26:20 xun run.py[line:65] INFO   [+] normal 【Catastrophic Happiness: Finding Joy in Childhood's Messy Years】£37.35
+2026-09-19 22:26:20 xun run.py[line:65] INFO   [+] normal 【Career of Evil (Cormoran Strike #3)】£24.72
+2026-09-19 22:26:20 xun run.py[line:65] INFO   [+] normal 【Breaking Dawn (Twilight #4)】£35.28
+2026-09-19 22:26:20 xun run.py[line:65] INFO   [+] normal 【Brave Enough】£51.32
+2026-09-19 22:26:20 xun run.py[line:65] INFO   [+] normal 【Boy Meets Boy】£21.12
+2026-09-19 22:26:20 xun run.py[line:65] INFO   [+] normal 【Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen】£27.35
+2026-09-19 22:26:20 xun run.py[line:65] INFO   [+] normal 【Blink: The Power of Thinking Without Thinking】£21.74
+2026-09-19 22:26:20 xun run.py[line:65] INFO   [+] normal 【Black Flags: The Rise of ISIS】£40.87
+2026-09-19 22:26:20 xun run.py[line:65] INFO   [+] normal 【Black Butler, Vol. 1 (Black Butler #1)】£49.31
+2026-09-19 22:26:20 xun run.py[line:65] INFO   [+] normal 【Big Little Lies】£22.11
+2026-09-19 22:26:20 xun run.py[line:65] INFO   [+] normal 【Between Shades of Gray】£20.79
+2026-09-19 22:26:20 xun run.py[line:65] INFO   [+] normal 【Best of My Love (Fool's Gold #20)】£27.41
+2026-09-19 22:26:20 xun run.py[line:65] INFO   [+] normal 【Beowulf】£38.35
+2026-09-19 22:26:20 xun run.py[line:65] INFO   [+] normal 【Beautiful Creatures (Caster Chronicles #1)】£21.55
+2026-09-19 22:26:20 xun run.py[line:65] INFO   [+] normal 【Awkward】£38.02
+2026-09-19 22:26:20 xun run.py[line:65] INFO   [+] normal 【Ash】£22.06
+2026-09-19 22:26:20 xun run.py[line:65] INFO   [+] normal 【Are We There Yet?】£10.66
+2026-09-19 22:26:20 xun run.py[line:65] INFO   [+] normal 【Are We Smart Enough to Know How Smart Animals Are?】£56.58
+2026-09-19 22:26:20 xun run.py[line:18] INFO [list 45/50] https://books.toscrape.com/catalogue/page-45.html
+2026-09-19 22:26:23 xun run.py[line:65] INFO   [+] normal 【Annie on My Mind】£36.83
+2026-09-19 22:26:23 xun run.py[line:65] INFO   [+] normal 【And Then There Were None】£35.01
+2026-09-19 22:26:23 xun run.py[line:65] INFO   [+] normal 【A Walk in the Woods: Rediscovering America on the Appalachian Trail】£30.48
+2026-09-19 22:26:23 xun run.py[line:65] INFO   [+] normal 【A Visit from the Goon Squad】£14.08
+2026-09-19 22:26:23 xun run.py[line:65] INFO   [+] normal 【A Storm of Swords (A Song of Ice and Fire #3)】£31.22
+2026-09-19 22:26:23 xun run.py[line:65] INFO   [+] normal 【A Heartbreaking Work of Staggering Genius】£54.29
+2026-09-19 22:26:23 xun run.py[line:65] INFO   [+] normal 【8 Keys to Mental Health Through Exercise】£31.04
+2026-09-19 22:26:23 xun run.py[line:65] INFO   [+] normal 【#GIRLBOSS】£50.96
+2026-09-19 22:26:23 xun run.py[line:65] INFO   [+] normal 【The Suffragettes (Little Black Classics, #96)】£11.89
+2026-09-19 22:26:23 xun run.py[line:65] INFO   [+] normal 【The Sense of an Ending】£31.38
+2026-09-19 22:26:23 xun run.py[line:65] INFO   [+] normal 【The Sandman, Vol. 2: The Doll's House (The Sandman (volumes) #2)】£54.81
+2026-09-19 22:26:23 xun run.py[line:65] INFO   [+] normal 【The Course of Love】£16.78
+2026-09-19 22:26:23 xun run.py[line:65] INFO   [+] normal 【Sugar Rush (Offensive Line #2)】£24.42
+2026-09-19 22:26:23 xun run.py[line:65] INFO   [+] normal 【Saga, Volume 2 (Saga (Collected Editions) #2)】£11.75
+2026-09-19 22:26:23 xun run.py[line:65] INFO   [+] normal 【Run, Spot, Run: The Ethics of Keeping Pets】£20.02
+2026-09-19 22:26:23 xun run.py[line:65] INFO   [+] normal 【New Moon (Twilight #2)】£12.86
+2026-09-19 22:26:23 xun run.py[line:65] INFO   [+] normal 【Life】£31.58
+2026-09-19 22:26:23 xun run.py[line:65] INFO   [+] normal 【Kindle Paperwhite User's Guide】£34.00
+2026-09-19 22:26:23 xun run.py[line:65] INFO   [+] normal 【H is for Hawk】£57.42
+2026-09-19 22:26:23 xun run.py[line:65] INFO   [+] normal 【Girl Online On Tour (Girl Online #2)】£53.47
+2026-09-19 22:26:23 xun run.py[line:18] INFO [list 46/50] https://books.toscrape.com/catalogue/page-46.html
+2026-09-19 22:26:26 xun run.py[line:65] INFO   [+] normal 【Fruits Basket, Vol. 2 (Fruits Basket #2)】£11.64
+2026-09-19 22:26:26 xun run.py[line:65] INFO   [+] normal 【Diary of a Minecraft Zombie Book 1: A Scare of a Dare (An Unofficial Minecraft Book)】£52.88
+2026-09-19 22:26:26 xun run.py[line:65] INFO   [+] normal 【Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man #1)】£18.51
+2026-09-19 22:26:26 xun run.py[line:65] INFO   [+] normal 【While You Were Mine】£41.32
+2026-09-19 22:26:26 xun run.py[line:65] INFO   [+] normal 【Where Lightning Strikes (Bleeding Stars #3)】£39.77
+2026-09-19 22:26:26 xun run.py[line:65] INFO   [+] normal 【When I'm Gone】£51.96
+2026-09-19 22:26:26 xun run.py[line:65] INFO   [+] normal 【Ways of Seeing】£39.51
+2026-09-19 22:26:26 xun run.py[line:65] INFO   [+] normal 【Vampire Knight, Vol. 1 (Vampire Knight #1)】£15.40
+2026-09-19 22:26:26 xun run.py[line:65] INFO   [+] normal 【Vampire Girl (Vampire Girl #1)】£53.82
+2026-09-19 22:26:26 xun run.py[line:65] INFO   [+] normal 【Twenty Love Poems and a Song of Despair】£30.95
+2026-09-19 22:26:26 xun run.py[line:65] INFO   [+] normal 【Travels with Charley: In Search of America】£57.82
+2026-09-19 22:26:26 xun run.py[line:65] INFO   [+] normal 【Three Wishes (River of Time: California #1)】£44.18
+2026-09-19 22:26:26 xun run.py[line:65] INFO   [+] normal 【This One Moment (Pushing Limits #1)】£48.71
+2026-09-19 22:26:26 xun run.py[line:65] INFO   [+] normal 【The Zombie Room】£19.69
+2026-09-19 22:26:26 xun run.py[line:65] INFO   [+] normal 【The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine)】£36.52
+2026-09-19 22:26:26 xun run.py[line:65] INFO   [+] normal 【The Tumor】£41.56
+2026-09-19 22:26:26 xun run.py[line:65] INFO   [+] normal 【The Story of Hong Gildong】£43.19
+2026-09-19 22:26:26 xun run.py[line:65] INFO   [+] normal 【The Silent Wife】£12.34
+2026-09-19 22:26:26 xun run.py[line:65] INFO   [+] normal 【The Silent Twin (Detective Jennifer Knight #3)】£36.25
+2026-09-19 22:26:26 xun run.py[line:65] INFO   [+] normal 【The Selfish Gene】£29.45
+2026-09-19 22:26:26 xun run.py[line:18] INFO [list 47/50] https://books.toscrape.com/catalogue/page-47.html
+2026-09-19 22:26:32 xun run.py[line:65] INFO   [+] normal 【The Secret Healer】£34.56
+2026-09-19 22:26:32 xun run.py[line:65] INFO   [+] normal 【The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman (volumes) #1)】£54.12
+2026-09-19 22:26:32 xun run.py[line:65] INFO   [+] normal 【The Republic】£33.78
+2026-09-19 22:26:32 xun run.py[line:65] INFO   [+] normal 【The Odyssey】£29.64
+2026-09-19 22:26:32 xun run.py[line:65] INFO   [+] normal 【The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1)】£57.70
+2026-09-19 22:26:32 xun run.py[line:65] INFO   [+] normal 【The Nicomachean Ethics】£36.34
+2026-09-19 22:26:32 xun run.py[line:65] INFO   [+] normal 【The Name of the Wind (The Kingkiller Chronicle #1)】£50.59
+2026-09-19 22:26:32 xun run.py[line:65] INFO   [+] normal 【The Mirror & the Maze (The Wrath and the Dawn #1.5)】£29.38
+2026-09-19 22:26:32 xun run.py[line:65] INFO   [+] normal 【The Little Prince】£45.42
+2026-09-19 22:26:32 xun run.py[line:65] INFO   [+] normal 【The Light of the Fireflies】£54.43
+2026-09-19 22:26:32 xun run.py[line:65] INFO   [+] normal 【The Last Girl (The Dominion Trilogy #1)】£36.26
+2026-09-19 22:26:32 xun run.py[line:65] INFO   [+] normal 【The Iliad】£16.16
+2026-09-19 22:26:32 xun run.py[line:65] INFO   [+] normal 【The Hook Up (Game On #1)】£36.29
+2026-09-19 22:26:32 xun run.py[line:65] INFO   [+] normal 【The Haters】£27.89
+2026-09-19 22:26:32 xun run.py[line:65] INFO   [+] normal 【The Girl You Lost】£12.29
+2026-09-19 22:26:32 xun run.py[line:65] INFO   [+] normal 【The Girl In The Ice (DCI Erika Foster #1)】£15.85
+2026-09-19 22:26:32 xun run.py[line:65] INFO   [+] normal 【The End of the Jesus Era (An Investigation #1)】£14.40
+2026-09-19 22:26:32 xun run.py[line:65] INFO   [+] normal 【The Edge of Reason (Bridget Jones #2)】£19.18
+2026-09-19 22:26:32 xun run.py[line:65] INFO   [+] normal 【The Complete Maus (Maus #1-2)】£10.64
+2026-09-19 22:26:32 xun run.py[line:65] INFO   [+] normal 【The Communist Manifesto】£14.76
+2026-09-19 22:26:32 xun run.py[line:18] INFO [list 48/50] https://books.toscrape.com/catalogue/page-48.html
+2026-09-19 22:26:36 xun run.py[line:65] INFO   [+] normal 【The Bhagavad Gita】£57.49
+2026-09-19 22:26:36 xun run.py[line:65] INFO   [+] normal 【The Bette Davis Club】£30.66
+2026-09-19 22:26:36 xun run.py[line:65] INFO   [+] normal 【The Art of Not Breathing】£40.83
+2026-09-19 22:26:36 xun run.py[line:65] INFO   [+] normal 【Taking Shots (Assassins #1)】£18.88
+2026-09-19 22:26:36 xun run.py[line:65] INFO   [+] normal 【Starlark】£25.83
+2026-09-19 22:26:36 xun run.py[line:65] INFO   [+] normal 【Skip Beat!, Vol. 01 (Skip Beat! #1)】£42.12
+2026-09-19 22:26:36 xun run.py[line:65] INFO   [+] normal 【Sister Sable (The Mad Queen #1)】£13.33
+2026-09-19 22:26:36 xun run.py[line:65] INFO   [+] normal 【Shatter Me (Shatter Me #1)】£42.40
+2026-09-19 22:26:36 xun run.py[line:65] INFO   [+] normal 【Shameless】£58.35
+2026-09-19 22:26:36 xun run.py[line:65] INFO   [+] normal 【Shadow Rites (Jane Yellowrock #10)】£21.72
+2026-09-19 22:26:36 xun run.py[line:65] INFO   [+] normal 【Settling the Score (The Summer Games #1)】£44.91
+2026-09-19 22:26:36 xun run.py[line:65] INFO   [+] normal 【Sense and Sensibility】£37.46
+2026-09-19 22:26:36 xun run.py[line:65] INFO   [+] normal 【Saga, Volume 1 (Saga (Collected Editions) #1)】£28.48
+2026-09-19 22:26:36 xun run.py[line:65] INFO   [+] normal 【Rhythm, Chord & Malykhin】£28.34
+2026-09-19 22:26:36 xun run.py[line:65] INFO   [+] normal 【Rat Queens, Vol. 1: Sass & Sorcery (Rat Queens (Collected Editions) #1-5)】£46.96
+2026-09-19 22:26:36 xun run.py[line:65] INFO   [+] normal 【Paradise Lost (Paradise #1)】£24.96
+2026-09-19 22:26:36 xun run.py[line:65] INFO   [+] normal 【Paper Girls, Vol. 1 (Paper Girls #1-5)】£21.71
+2026-09-19 22:26:36 xun run.py[line:65] INFO   [+] normal 【Ouran High School Host Club, Vol. 1 (Ouran High School Host Club #1)】£29.87
+2026-09-19 22:26:36 xun run.py[line:65] INFO   [+] normal 【Origins (Alphas 0.5)】£28.99
+2026-09-19 22:26:36 xun run.py[line:65] INFO   [+] normal 【One Second (Seven #7)】£52.94
+2026-09-19 22:26:36 xun run.py[line:18] INFO [list 49/50] https://books.toscrape.com/catalogue/page-49.html
+2026-09-19 22:26:42 xun run.py[line:65] INFO   [+] normal 【On the Road (Duluoz Legend)】£32.36
+2026-09-19 22:26:42 xun run.py[line:65] INFO   [+] normal 【Old Records Never Die: One Man's Quest for His Vinyl and His Past】£55.66
+2026-09-19 22:26:42 xun run.py[line:65] INFO   [+] normal 【Off Sides (Off #1)】£39.45
+2026-09-19 22:26:42 xun run.py[line:65] INFO   [+] normal 【Of Mice and Men】£47.11
+2026-09-19 22:26:42 xun run.py[line:65] INFO   [+] normal 【Myriad (Prentor #1)】£58.75
+2026-09-19 22:26:42 xun run.py[line:65] INFO   [+] normal 【My Perfect Mistake (Over the Top #1)】£38.92
+2026-09-19 22:26:42 xun run.py[line:65] INFO   [+] normal 【Ms. Marvel, Vol. 1: No Normal (Ms. Marvel (2014-2015) #1)】£39.39
+2026-09-19 22:26:42 xun run.py[line:65] INFO   [+] normal 【Meditations】£25.89
+2026-09-19 22:26:42 xun run.py[line:65] INFO   [+] normal 【Matilda】£28.34
+2026-09-19 22:26:42 xun run.py[line:65] INFO   [+] normal 【Lost Among the Living】£27.70
+2026-09-19 22:26:42 xun run.py[line:65] INFO   [+] normal 【Lord of the Flies】£24.89
+2026-09-19 22:26:42 xun run.py[line:65] INFO   [+] normal 【Listen to Me (Fusion #1)】£58.99
+2026-09-19 22:26:42 xun run.py[line:65] INFO   [+] normal 【Kitchens of the Great Midwest】£57.20
+2026-09-19 22:26:42 xun run.py[line:65] INFO   [+] normal 【Jane Eyre】£38.43
+2026-09-19 22:26:42 xun run.py[line:65] INFO   [+] normal 【Imperfect Harmony】£34.74
+2026-09-19 22:26:42 xun run.py[line:65] INFO   [+] normal 【Icing (Aces Hockey #2)】£40.44
+2026-09-19 22:26:42 xun run.py[line:65] INFO   [+] normal 【Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)】£45.24
+2026-09-19 22:26:42 xun run.py[line:65] INFO   [+] normal 【Having the Barbarian's Baby (Ice Planet Barbarians #7.5)】£34.96
+2026-09-19 22:26:42 xun run.py[line:65] INFO   [+] normal 【Giant Days, Vol. 1 (Giant Days #1-4)】£56.76
+2026-09-19 22:26:42 xun run.py[line:65] INFO   [+] normal 【Fruits Basket, Vol. 1 (Fruits Basket #1)】£40.28
+2026-09-19 22:26:42 xun run.py[line:18] INFO [list 50/50] https://books.toscrape.com/catalogue/page-50.html
+2026-09-19 22:26:46 xun run.py[line:65] INFO   [+] normal 【Frankenstein】£38.00
+2026-09-19 22:26:46 xun run.py[line:65] INFO   [+] normal 【Forever Rockers (The Rocker #12)】£28.80
+2026-09-19 22:26:46 xun run.py[line:65] INFO   [+] normal 【Fighting Fate (Fighting #6)】£39.24
+2026-09-19 22:26:46 xun run.py[line:65] INFO   [+] normal 【Emma】£32.93
+2026-09-19 22:26:46 xun run.py[line:65] INFO   [+] normal 【Eat, Pray, Love】£51.32
+2026-09-19 22:26:46 xun run.py[line:65] INFO   [+] normal 【Deep Under (Walker Security #1)】£47.09
+2026-09-19 22:26:46 xun run.py[line:65] INFO   [+] normal 【Choosing Our Religion: The Spiritual Lives of America's Nones】£28.42
+2026-09-19 22:26:46 xun run.py[line:65] INFO   [+] normal 【Charlie and the Chocolate Factory (Charlie Bucket #1)】£22.85
+2026-09-19 22:26:46 xun run.py[line:65] INFO   [+] normal 【Charity's Cross (Charles Towne Belles #4)】£41.24
+2026-09-19 22:26:46 xun run.py[line:65] INFO   [+] normal 【Bright Lines】£39.07
+2026-09-19 22:26:46 xun run.py[line:65] INFO   [+] normal 【Bridget Jones's Diary (Bridget Jones #1)】£29.82
+2026-09-19 22:26:46 xun run.py[line:65] INFO   [+] normal 【Bounty (Colorado Mountain #7)】£37.26
+2026-09-19 22:26:46 xun run.py[line:65] INFO   [+] normal 【Blood Defense (Samantha Brinkman #1)】£20.30
+2026-09-19 22:26:46 xun run.py[line:65] INFO   [+] normal 【Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1)】£34.65
+2026-09-19 22:26:46 xun run.py[line:65] INFO   [+] normal 【Beyond Good and Evil】£43.38
+2026-09-19 22:26:46 xun run.py[line:65] INFO   [+] normal 【Alice in Wonderland (Alice's Adventures in Wonderland #1)】£55.53
+2026-09-19 22:26:46 xun run.py[line:65] INFO   [+] normal 【Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1)】£57.06
+2026-09-19 22:26:46 xun run.py[line:65] INFO   [+] normal 【A Spy's Devotion (The Regency Spies of London #1)】£16.97
+2026-09-19 22:26:46 xun run.py[line:65] INFO   [+] normal 【1st to Die (Women's Murder Club #1)】£53.98
+2026-09-19 22:26:46 xun run.py[line:65] INFO   [+] normal 【1,000 Places to See Before You Die】£26.08
+2026-09-19 22:26:46 xun main.py[line:18] INFO 爬虫完成: 新增980 条 , 收容 0 条
+2026-09-19 22:26:46 xun main.py[line:28] INFO 运行成功
+2026-09-20 17:05:35 xun main.py[line:12] INFO 初始化完成,开始运行
+2026-09-20 17:05:35 xun run.py[line:18] INFO [list 1/50] https://books.toscrape.com/
+2026-09-20 17:05:39 xun run.py[line:18] INFO [list 2/50] https://books.toscrape.com/catalogue/page-2.html
+2026-09-20 17:05:43 xun run.py[line:18] INFO [list 3/50] https://books.toscrape.com/catalogue/page-3.html
+2026-09-20 17:05:46 xun run.py[line:18] INFO [list 4/50] https://books.toscrape.com/catalogue/page-4.html
+2026-09-20 17:06:04 xun main.py[line:12] INFO 初始化完成,开始运行
+2026-09-20 17:06:04 xun run.py[line:18] INFO [list 1/1] https://books.toscrape.com/
+2026-09-20 17:06:09 xun main.py[line:18] INFO 爬虫完成: 新增0 条 , 收容 0 条
+2026-09-20 17:06:09 xun main.py[line:22] INFO 书本信息没有更新
+2026-09-20 19:45:18 xun main.py[line:12] INFO 初始化完成,开始运行
+2026-09-20 19:45:18 xun run.py[line:18] INFO [list 1/50] https://books.toscrape.com/
+2026-09-20 19:45:23 xun run.py[line:18] INFO [list 2/50] https://books.toscrape.com/catalogue/page-2.html
+2026-09-20 19:45:27 xun run.py[line:18] INFO [list 3/50] https://books.toscrape.com/catalogue/page-3.html
+2026-09-20 19:45:32 xun run.py[line:18] INFO [list 4/50] https://books.toscrape.com/catalogue/page-4.html
+2026-09-20 19:45:34 xun run.py[line:18] INFO [list 5/50] https://books.toscrape.com/catalogue/page-5.html
+2026-09-20 19:45:35 xun run.py[line:18] INFO [list 6/50] https://books.toscrape.com/catalogue/page-6.html
+2026-09-20 19:45:39 xun run.py[line:18] INFO [list 7/50] https://books.toscrape.com/catalogue/page-7.html
+2026-09-20 19:45:45 xun run.py[line:18] INFO [list 8/50] https://books.toscrape.com/catalogue/page-8.html
+2026-09-20 19:45:47 xun run.py[line:18] INFO [list 9/50] https://books.toscrape.com/catalogue/page-9.html
+2026-09-20 19:45:49 xun run.py[line:18] INFO [list 10/50] https://books.toscrape.com/catalogue/page-10.html
+2026-09-20 19:45:51 xun run.py[line:18] INFO [list 11/50] https://books.toscrape.com/catalogue/page-11.html
+2026-09-20 19:45:53 xun run.py[line:18] INFO [list 12/50] https://books.toscrape.com/catalogue/page-12.html
+2026-09-20 19:45:56 xun run.py[line:18] INFO [list 13/50] https://books.toscrape.com/catalogue/page-13.html
+2026-09-20 19:45:59 xun run.py[line:18] INFO [list 14/50] https://books.toscrape.com/catalogue/page-14.html
+2026-09-20 19:46:01 xun run.py[line:18] INFO [list 15/50] https://books.toscrape.com/catalogue/page-15.html
+2026-09-20 19:46:05 xun run.py[line:18] INFO [list 16/50] https://books.toscrape.com/catalogue/page-16.html
+2026-09-20 19:46:08 xun run.py[line:18] INFO [list 17/50] https://books.toscrape.com/catalogue/page-17.html
+2026-09-20 19:46:11 xun run.py[line:18] INFO [list 18/50] https://books.toscrape.com/catalogue/page-18.html
+2026-09-20 19:46:13 xun run.py[line:18] INFO [list 19/50] https://books.toscrape.com/catalogue/page-19.html
+2026-09-20 19:46:15 xun run.py[line:18] INFO [list 20/50] https://books.toscrape.com/catalogue/page-20.html
+2026-09-20 19:46:17 xun run.py[line:18] INFO [list 21/50] https://books.toscrape.com/catalogue/page-21.html
+2026-09-20 19:46:19 xun run.py[line:18] INFO [list 22/50] https://books.toscrape.com/catalogue/page-22.html
+2026-09-20 19:46:21 xun run.py[line:18] INFO [list 23/50] https://books.toscrape.com/catalogue/page-23.html
+2026-09-20 19:46:23 xun run.py[line:18] INFO [list 24/50] https://books.toscrape.com/catalogue/page-24.html
+2026-09-20 19:46:25 xun run.py[line:18] INFO [list 25/50] https://books.toscrape.com/catalogue/page-25.html
+2026-09-20 19:46:28 xun run.py[line:18] INFO [list 26/50] https://books.toscrape.com/catalogue/page-26.html
+2026-09-20 19:46:30 xun run.py[line:18] INFO [list 27/50] https://books.toscrape.com/catalogue/page-27.html
+2026-09-20 19:46:32 xun run.py[line:18] INFO [list 28/50] https://books.toscrape.com/catalogue/page-28.html
+2026-09-20 19:46:35 xun run.py[line:18] INFO [list 29/50] https://books.toscrape.com/catalogue/page-29.html
+2026-09-20 19:46:37 xun run.py[line:18] INFO [list 30/50] https://books.toscrape.com/catalogue/page-30.html
+2026-09-20 19:46:39 xun run.py[line:18] INFO [list 31/50] https://books.toscrape.com/catalogue/page-31.html
+2026-09-20 19:46:41 xun run.py[line:18] INFO [list 32/50] https://books.toscrape.com/catalogue/page-32.html
+2026-09-20 19:46:44 xun run.py[line:18] INFO [list 33/50] https://books.toscrape.com/catalogue/page-33.html
+2026-09-20 19:46:47 xun run.py[line:18] INFO [list 34/50] https://books.toscrape.com/catalogue/page-34.html
+2026-09-20 19:46:49 xun run.py[line:18] INFO [list 35/50] https://books.toscrape.com/catalogue/page-35.html
+2026-09-20 19:46:51 xun run.py[line:18] INFO [list 36/50] https://books.toscrape.com/catalogue/page-36.html
+2026-09-20 19:46:53 xun run.py[line:18] INFO [list 37/50] https://books.toscrape.com/catalogue/page-37.html
+2026-09-20 19:46:56 xun run.py[line:18] INFO [list 38/50] https://books.toscrape.com/catalogue/page-38.html
+2026-09-20 19:46:58 xun run.py[line:18] INFO [list 39/50] https://books.toscrape.com/catalogue/page-39.html
+2026-09-20 19:47:00 xun run.py[line:18] INFO [list 40/50] https://books.toscrape.com/catalogue/page-40.html
+2026-09-20 19:47:03 xun run.py[line:18] INFO [list 41/50] https://books.toscrape.com/catalogue/page-41.html
+2026-09-20 19:47:06 xun run.py[line:18] INFO [list 42/50] https://books.toscrape.com/catalogue/page-42.html
+2026-09-20 19:47:08 xun run.py[line:18] INFO [list 43/50] https://books.toscrape.com/catalogue/page-43.html
+2026-09-20 19:47:10 xun run.py[line:18] INFO [list 44/50] https://books.toscrape.com/catalogue/page-44.html
+2026-09-20 19:47:13 xun run.py[line:18] INFO [list 45/50] https://books.toscrape.com/catalogue/page-45.html
+2026-09-20 19:47:16 xun run.py[line:18] INFO [list 46/50] https://books.toscrape.com/catalogue/page-46.html
+2026-09-20 19:47:19 xun run.py[line:18] INFO [list 47/50] https://books.toscrape.com/catalogue/page-47.html
+2026-09-20 19:47:21 xun run.py[line:18] INFO [list 48/50] https://books.toscrape.com/catalogue/page-48.html
+2026-09-20 19:47:24 xun run.py[line:18] INFO [list 49/50] https://books.toscrape.com/catalogue/page-49.html
+2026-09-20 19:47:27 xun run.py[line:18] INFO [list 50/50] https://books.toscrape.com/catalogue/page-50.html
+2026-09-20 19:47:30 xun main.py[line:18] INFO 爬虫完成: 新增0 条 , 收容 0 条
+2026-09-20 19:47:30 xun main.py[line:22] INFO 书本信息没有更新

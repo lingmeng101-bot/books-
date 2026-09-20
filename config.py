@@ -1,7 +1,7 @@
 BASE_URL = "https://books.toscrape.com/"
 #数据库
 DB_NAME="books.db"
-MAX_PAGES = 1
+MAX_PAGES = 50
 #时间参数
 DELAY_MIN = 1.0
 DELAY_MAX = 2.0

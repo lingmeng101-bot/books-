@@ -1,4 +1,5 @@
 import sqlite3
+
 import config
 
 SCHEMA="""
@@ -14,7 +15,7 @@ SCHEMA="""
     pushed INTEGER DEFAULT 0,
     UNIQUE(href))"""
 
-def init_db():
+def init_db()-> sqlite3.Connection:
     conn = sqlite3.connect(config.DB_NAME)
     c = conn.cursor()
     c.execute(SCHEMA)
@@ -25,11 +26,11 @@ def init_db():
 def save_xia_xun(
         conn: sqlite3.Connection,
         book_name: str,
-        price: float,
+        price: str,
         stock: str,
         href: str,
         img: str,
-        star: str,
+        star: int,
         access_status: str,) -> None:
 
     c = conn.cursor()
@@ -68,7 +69,6 @@ def get_unpushed(conn: sqlite3.Connection) -> list:
 def mark_pushed(conn: sqlite3.Connection,id_) -> None:
     c = conn.cursor()
     c.execute("UPDATE XIA_XUN SET pushed=1 WHERE id = ? ", (id_,))
-    conn.commit()
 
 def commit_db(conn: sqlite3.Connection) -> None:
     conn.commit()
