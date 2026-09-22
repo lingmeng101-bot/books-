@@ -8,8 +8,8 @@ books.toscrape.com 爬虫示例代码。
 
 ## 功能
 - 抓书籍列表页，解析书名、价格、库存、评分、封面图
-- 存 SQLite，按 href 去重，重复跑不会重复入库
-- 分页抓取，页数在 config.py 里改
+- 存 SQLite，去重 href.
+- 分页抓取
 
 ## 使用方法
 1. `pip install -r requirements.txt`
