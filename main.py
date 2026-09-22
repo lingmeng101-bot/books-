@@ -4,7 +4,7 @@ import config
 from fetcher import make_session
 from log import setup_logger
 from run import crawl_and_save
-from storage import commit_db, get_unpushed, init_db, mark_pushed
+from storage import commit_db, get_unprocessed, init_db, mark_processed
 
 log=logging.getLogger(config.LOG_NAME)
 
@@ -18,13 +18,13 @@ def main():
         added,malformed=crawl_and_save(session,config.BASE_URL,config.MAX_PAGES,conn)
         log.info("爬虫完成: 新增%d 条 , 收容 %d 条",added,malformed)
 
-        rows=get_unpushed(conn)
+        rows=get_unprocessed(conn)
         if not rows:
             log.info("书本信息没有更新")
             return
 
         for id_ in rows:
-            mark_pushed(conn,id_[0])
+            mark_processed(conn,id_[0])
         commit_db(conn)
         log.info("运行成功")
 

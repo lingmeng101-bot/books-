@@ -12,7 +12,7 @@ SCHEMA="""
     img TEXT ,
     star INTEGER  ,
     access_status TEXT DEFAULT 'normal',
-    pushed INTEGER DEFAULT 0,
+    processed INTEGER DEFAULT 0,
     UNIQUE(href))"""
 
 def init_db()-> sqlite3.Connection:
@@ -60,15 +60,15 @@ def link_exists(
     exists = c.fetchone() is not None
     return exists
 
-def get_unpushed(conn: sqlite3.Connection) -> list:
+def get_unprocessed(conn: sqlite3.Connection) -> list:
     c = conn.cursor()
     #倒序
-    c.execute("SELECT id , book_name , price ,stock, img , star FROM XIA_XUN WHERE access_status IN ('normal') AND pushed=0  ORDER BY pushed DESC")
+    c.execute("SELECT id , book_name , price ,stock, img , star FROM XIA_XUN WHERE access_status IN ('normal') AND processed=0  ORDER BY processed DESC")
     return c.fetchall()
 
-def mark_pushed(conn: sqlite3.Connection,id_) -> None:
+def mark_processed(conn: sqlite3.Connection,id_) -> None:
     c = conn.cursor()
-    c.execute("UPDATE XIA_XUN SET pushed=1 WHERE id = ? ", (id_,))
+    c.execute("UPDATE XIA_XUN SET processed=1 WHERE id = ? ", (id_,))
 
 def commit_db(conn: sqlite3.Connection) -> None:
     conn.commit()
