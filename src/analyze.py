@@ -1,9 +1,11 @@
 # analyze.py
 import pandas as pd
 
+import config
+
 
 def main():
-    df = pd.read_csv("books_clean.csv")
+    df = pd.read_csv(config.DATA_DIR / "books_clean.csv")
 
     print("=== 价格统计 ===")
     print(df["price"].describe())
@@ -15,7 +17,7 @@ def main():
     print(df.nlargest(10, "price")[["book_name", "price"]].to_string(index=False))
 
 
-    with pd.ExcelWriter("books_stats.xlsx", engine="openpyxl") as writer:
+    with pd.ExcelWriter(config.DATA_DIR / "books_stats.xlsx", engine="openpyxl") as writer:
         df.to_excel(writer, sheet_name="all_books", index=False)
         df["price"].describe().to_frame("price").to_excel(writer, sheet_name="price_stats")
         df["star"].value_counts().sort_index().to_frame("count").to_excel(writer, sheet_name="star_dist")

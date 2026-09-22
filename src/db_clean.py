@@ -16,7 +16,7 @@ def main():
     df["star"] = df["star"].fillna(0).astype(int)
     df["stock"] = df["stock"].str.strip()
 
-    df.to_csv("books_clean.csv", index=False, encoding="utf-8-sig")
+    df.to_csv(config.DATA_DIR / "books_clean.csv", index=False, encoding="utf-8-sig")
     print(f"导出 {len(df)} 行到 books_clean.csv")
 
 if __name__ == "__main__":

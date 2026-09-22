@@ -1,6 +1,9 @@
+from pathlib import Path
+
 BASE_URL = "https://books.toscrape.com/"
+DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 #数据库
-DB_NAME="books.db"
+DB_NAME=DATA_DIR / "books.db"
 MAX_PAGES = 50
 #时间参数
 DELAY_MIN = 1.0
